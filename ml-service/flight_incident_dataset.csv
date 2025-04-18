@@ -1,0 +1,1001 @@
+Flight Number,datetime,Latitude,Longitude,Airport Code,Description,Severity
+UA125,2023-04-13 00:00:00,39.80108,-104.62066,DEN,Air traffic control miscommunication,Medium
+WN328,2023-01-21 00:00:00,40.61788,-73.80151,JFK,Landing gear warning light,Low
+UA189,2023-03-29 00:00:00,32.80838,-97.07922,DFW,Cargo door warning,Low
+AA130,2023-11-05 00:00:00,33.88351,-118.46102,LAX,Fuel imbalance alert,Low
+WN617,2024-04-04 00:00:00,32.89912,-97.08078,DFW,Engine vibration reported during takeoff,Low
+UA303,2023-07-07 00:00:00,39.78577,-104.88616,DEN,Engine oil pressure low,Medium
+UA325,2023-02-20 00:00:00,33.65095,-84.43157,ATL,Tyre blowout during landing,Low
+UA928,2023-11-03 00:00:00,33.88909,-118.21722,LAX,Hydraulic system warning,Low
+UA448,2023-03-30 00:00:00,41.91854,-87.93407,ORD,Electrical failure in cockpit,Low
+WN881,2024-01-02 00:00:00,42.07348,-87.74681,ORD,Landing gear warning light,Medium
+UA489,2023-02-04 00:00:00,33.91865,-118.36957,LAX,Wind shear encountered,Low
+AS718,2023-01-02 00:00:00,41.84081,-87.94021,ORD,Bird strike during climb,Low
+UA649,2023-07-10 00:00:00,33.92397,-118.28841,LAX,Ice accumulation warning,Low
+UA665,2023-09-27 00:00:00,41.88788,-87.78604,ORD,Security threat reported onboard,Low
+AS691,2023-09-09 00:00:00,40.62974,-73.80821,JFK,Cabin pressure fluctuation,Low
+AA777,2023-12-04 00:00:00,40.87537,-73.671,JFK,Runway incursion reported,High
+UA975,2023-07-07 00:00:00,40.52824,-73.76466,JFK,Landing gear warning light,Medium
+UA384,2023-03-06 00:00:00,33.63235,-84.45563,ATL,Wind shear encountered,Low
+DL479,2023-05-16 00:00:00,42.0817,-87.81177,ORD,Fuel imbalance alert,Medium
+UA818,2023-09-18 00:00:00,39.87726,-104.6125,DEN,Cabin pressure fluctuation,High
+UA750,2023-07-20 00:00:00,40.49048,-73.66814,JFK,Engine oil pressure low,Low
+WN267,2024-02-11 00:00:00,33.75792,-84.30475,ATL,Ice accumulation warning,Low
+UA755,2023-08-02 00:00:00,39.8489,-104.57185,DEN,Engine oil pressure low,Low
+WN801,2024-04-06 00:00:00,42.02538,-87.83129,ORD,Bird strike during climb,Low
+WN941,2024-02-02 00:00:00,34.27883,-118.50054,LAX,Autopilot disengagement,Low
+UA374,2023-02-11 00:00:00,33.80353,-118.43658,LAX,Fuel imbalance alert,Medium
+UA997,2023-08-29 00:00:00,39.86528,-104.87096,DEN,Autopilot disengagement,High
+WN771,2024-02-11 00:00:00,33.72397,-84.19938,ATL,Ice accumulation warning,Low
+UA246,2023-01-13 00:00:00,41.95738,-87.94759,ORD,Electrical failure in cockpit,Low
+WN862,2023-03-07 00:00:00,32.7502,-96.94874,DFW,Engine oil pressure low,Low
+UA864,2023-10-11 00:00:00,32.84392,-96.98667,DFW,Cargo door warning,Medium
+UA508,2023-11-27 00:00:00,41.9012,-87.94088,ORD,Brake temperature warning,Low
+DL621,2023-07-09 00:00:00,33.61104,-84.46488,ATL,Cabin pressure fluctuation,Low
+AA981,2023-04-26 00:00:00,33.80666,-118.51041,LAX,Electrical failure in cockpit,Low
+DL911,2024-02-15 00:00:00,39.71456,-104.71426,DEN,Cargo door warning,Low
+UA165,2023-06-21 00:00:00,33.57009,-84.47948,ATL,Ice accumulation warning,Low
+UA579,2024-04-16 00:00:00,32.80259,-96.8976,DFW,Air traffic control miscommunication,High
+UA981,2023-02-21 00:00:00,34.02339,-118.51396,LAX,Landing gear warning light,Medium
+UA868,2023-04-11 00:00:00,41.98462,-87.65858,ORD,Autopilot disengagement,Low
+UA400,2023-08-12 00:00:00,33.61746,-84.39795,ATL,Hydraulic system warning,Low
+UA103,2023-06-21 00:00:00,40.0526,-104.86619,DEN,Air traffic control miscommunication,Low
+UA880,2024-03-14 00:00:00,40.56377,-73.70079,JFK,In-flight turbulence incident,Medium
+UA991,2023-10-07 00:00:00,39.89172,-104.67439,DEN,Runway incursion reported,Low
+UA723,2023-08-28 00:00:00,40.59702,-73.74028,JFK,Electrical failure in cockpit,Low
+AS880,2024-04-08 00:00:00,40.65127,-73.82845,JFK,Engine oil pressure low,Low
+UA100,2024-02-07 00:00:00,32.98565,-96.97745,DFW,Autopilot disengagement,Low
+UA119,2023-07-18 00:00:00,33.99523,-118.49997,LAX,Wind shear encountered,Low
+UA345,2023-12-04 00:00:00,33.9898,-118.31585,LAX,Brake temperature warning,Medium
+UA180,2024-03-09 00:00:00,34.02295,-118.53159,LAX,Cabin depressurization,Medium
+UA878,2023-03-01 00:00:00,32.90318,-96.98784,DFW,Electrical failure in cockpit,Medium
+DL775,2023-01-09 00:00:00,33.73318,-84.53458,ATL,Engine oil pressure low,Medium
+DL371,2024-02-08 00:00:00,32.92195,-97.00336,DFW,Security threat reported onboard,Low
+UA316,2023-03-16 00:00:00,32.9823,-96.85914,DFW,Fuel imbalance alert,Low
+UA508,2024-04-17 00:00:00,39.87358,-104.79389,DEN,Wind shear encountered,Low
+UA629,2023-07-27 00:00:00,33.63621,-84.46643,ATL,Landing gear warning light,Low
+WN330,2024-01-19 00:00:00,34.02832,-118.31266,LAX,Autopilot disengagement,Low
+AA702,2023-06-25 00:00:00,32.87236,-97.11337,DFW,Brake temperature warning,Low
+UA325,2023-08-26 00:00:00,33.97319,-118.40257,LAX,Cabin pressure fluctuation,Low
+AA334,2023-09-21 00:00:00,34.06254,-118.3547,LAX,Bird strike during climb,Low
+AS172,2023-10-11 00:00:00,32.98191,-96.99857,DFW,Brake temperature warning,Low
+UA785,2023-10-31 00:00:00,33.52961,-84.37985,ATL,Fuel imbalance alert,High
+UA235,2023-02-15 00:00:00,39.83375,-104.6008,DEN,Tyre blowout during landing,Low
+UA584,2023-10-07 00:00:00,40.70191,-73.97252,JFK,Cabin depressurization,Low
+UA294,2023-07-07 00:00:00,33.89635,-118.3308,LAX,Landing gear warning light,Low
+UA462,2024-04-15 00:00:00,33.62558,-84.60301,ATL,Cargo door warning,Low
+UA984,2023-08-11 00:00:00,39.74133,-104.53324,DEN,Bird strike during climb,Low
+UA162,2024-01-21 00:00:00,33.72498,-84.47303,ATL,Autopilot disengagement,Low
+UA354,2023-09-03 00:00:00,40.50353,-73.87188,JFK,Fuel imbalance alert,Medium
+UA559,2023-12-21 00:00:00,40.70698,-73.92169,JFK,Cargo door warning,Low
+DL385,2024-01-26 00:00:00,33.78044,-84.42737,ATL,Brake temperature warning,Low
+UA553,2024-02-04 00:00:00,32.90374,-97.07894,DFW,Landing gear warning light,Low
+AA767,2024-03-22 00:00:00,32.89294,-97.09147,DFW,Engine vibration reported during takeoff,Low
+UA871,2023-05-05 00:00:00,40.65628,-73.76401,JFK,Hydraulic system warning,Low
+UA597,2023-06-19 00:00:00,33.58951,-84.3192,ATL,Fuel imbalance alert,Low
+UA160,2023-09-21 00:00:00,40.56977,-73.71014,JFK,Ice accumulation warning,Low
+AA499,2023-07-15 00:00:00,41.93946,-87.8611,ORD,Evacuation slide deployed in-flight,Low
+UA533,2023-12-21 00:00:00,39.99244,-104.58932,DEN,Engine oil pressure low,High
+UA258,2023-05-04 00:00:00,40.51051,-73.97716,JFK,Runway incursion reported,Medium
+WN159,2023-12-12 00:00:00,32.9474,-96.95142,DFW,Engine oil pressure low,Low
+AA865,2023-02-27 00:00:00,41.96705,-87.82173,ORD,Bird strike during climb,Low
+AA698,2023-04-28 00:00:00,33.73124,-84.30146,ATL,In-flight turbulence incident,Low
+UA261,2023-09-29 00:00:00,34.15506,-118.38582,LAX,In-flight turbulence incident,Low
+UA971,2023-12-15 00:00:00,40.48936,-73.82652,JFK,Cabin pressure fluctuation,Low
+UA169,2023-03-27 00:00:00,39.90048,-104.59474,DEN,Brake temperature warning,Low
+UA222,2023-08-06 00:00:00,32.96681,-96.97801,DFW,Brake temperature warning,Low
+UA708,2023-09-11 00:00:00,33.7421,-118.53852,LAX,Security threat reported onboard,Low
+UA529,2023-11-21 00:00:00,39.82366,-104.61974,DEN,Tyre blowout during landing,Low
+UA635,2023-05-27 00:00:00,42.09492,-87.90388,ORD,Air traffic control miscommunication,Low
+WN785,2023-01-04 00:00:00,39.91288,-104.65738,DEN,Autopilot disengagement,High
+WN371,2024-01-19 00:00:00,33.75394,-84.37496,ATL,Electrical failure in cockpit,Low
+UA568,2023-06-12 00:00:00,41.91709,-87.69377,ORD,Cabin pressure fluctuation,Low
+AA569,2023-04-11 00:00:00,33.0106,-96.99331,DFW,Tyre blowout during landing,Low
+UA175,2023-02-12 00:00:00,32.925,-97.10027,DFW,Fuel imbalance alert,Low
+UA371,2023-09-21 00:00:00,40.79679,-73.87622,JFK,Wind shear encountered,Low
+UA350,2023-04-25 00:00:00,41.91638,-87.94045,ORD,Runway incursion reported,Low
+DL548,2023-03-16 00:00:00,32.9331,-96.97987,DFW,Runway incursion reported,Medium
+UA926,2023-09-06 00:00:00,39.63442,-104.53324,DEN,In-flight turbulence incident,Low
+AA783,2023-08-15 00:00:00,32.89481,-97.02627,DFW,Runway incursion reported,Low
+UA999,2023-04-06 00:00:00,40.69601,-73.79832,JFK,Air traffic control miscommunication,Medium
+UA209,2024-01-04 00:00:00,39.97054,-104.58641,DEN,Engine oil pressure low,Low
+DL378,2023-10-13 00:00:00,41.97981,-87.81181,ORD,Security threat reported onboard,Medium
+WN834,2023-12-08 00:00:00,41.91963,-87.93473,ORD,Fuel imbalance alert,Low
+UA617,2024-03-20 00:00:00,33.66912,-84.44111,ATL,Air traffic control miscommunication,High
+AA194,2023-12-05 00:00:00,39.77077,-104.67363,DEN,Cargo door warning,Low
+UA145,2024-01-31 00:00:00,34.06209,-118.52817,LAX,Autopilot disengagement,Medium
+DL752,2023-05-31 00:00:00,41.94434,-87.87997,ORD,Hydraulic system warning,High
+UA664,2023-07-05 00:00:00,39.86368,-104.73992,DEN,Cargo door warning,Low
+UA109,2023-08-03 00:00:00,34.12297,-118.36804,LAX,Cabin pressure fluctuation,High
+DL658,2023-01-09 00:00:00,34.00298,-118.27271,LAX,Wind shear encountered,Low
+UA665,2023-01-07 00:00:00,40.49735,-73.81645,JFK,Cargo door warning,Low
+DL142,2023-10-10 00:00:00,41.9315,-87.8817,ORD,Wind shear encountered,Low
+AA466,2023-12-05 00:00:00,40.74737,-73.75435,JFK,Brake temperature warning,Medium
+UA462,2023-05-25 00:00:00,32.83048,-96.90199,DFW,Cargo door warning,Low
+UA867,2024-03-20 00:00:00,40.78913,-73.86605,JFK,Brake temperature warning,Low
+DL919,2023-01-19 00:00:00,40.6394,-73.87835,JFK,Cargo door warning,Low
+AA283,2023-08-08 00:00:00,40.01512,-104.62504,DEN,Autopilot disengagement,Medium
+UA921,2024-01-18 00:00:00,39.98321,-104.59511,DEN,Brake temperature warning,Low
+UA263,2023-07-09 00:00:00,39.80117,-104.91812,DEN,Landing gear warning light,Low
+UA993,2024-02-21 00:00:00,33.96401,-118.40724,LAX,Cabin depressurization,Low
+WN304,2023-08-15 00:00:00,33.58951,-84.40638,ATL,Wind shear encountered,Low
+UA940,2023-11-01 00:00:00,40.59811,-73.5921,JFK,Brake temperature warning,Low
+AA775,2024-01-09 00:00:00,40.78498,-73.84827,JFK,Ice accumulation warning,High
+AS385,2023-11-26 00:00:00,34.16058,-118.48933,LAX,Air traffic control miscommunication,Low
+AS756,2023-12-14 00:00:00,32.77599,-96.87909,DFW,Ice accumulation warning,Low
+UA439,2023-01-28 00:00:00,33.75033,-118.37225,LAX,Landing gear warning light,Medium
+UA282,2023-08-08 00:00:00,32.83227,-97.07836,DFW,Air traffic control miscommunication,Low
+AA211,2024-01-25 00:00:00,32.76488,-96.85485,DFW,Cargo door warning,High
+AS846,2023-08-30 00:00:00,41.85543,-87.88594,ORD,Cargo door warning,Low
+UA623,2024-01-09 00:00:00,33.97115,-118.51823,LAX,Ice accumulation warning,Low
+UA294,2023-12-08 00:00:00,42.00447,-87.78165,ORD,Bird strike during climb,Low
+UA101,2023-04-15 00:00:00,32.73746,-97.09794,DFW,Engine oil pressure low,Low
+WN472,2023-01-06 00:00:00,33.67095,-84.23695,ATL,Cabin pressure fluctuation,Medium
+AS738,2023-09-16 00:00:00,42.13022,-87.87365,ORD,Landing gear warning light,High
+UA619,2024-04-02 00:00:00,41.84353,-87.96862,ORD,Cargo door warning,Low
+AS512,2023-01-01 00:00:00,39.86813,-104.62076,DEN,Runway incursion reported,Low
+UA230,2024-01-04 00:00:00,40.29348,-73.80493,JFK,Cargo door warning,Medium
+UA793,2023-11-02 00:00:00,39.8731,-104.55688,DEN,Hydraulic system warning,Low
+UA682,2023-08-10 00:00:00,42.01997,-87.77069,ORD,Ice accumulation warning,Low
+UA953,2024-02-11 00:00:00,34.00614,-118.27164,LAX,Runway incursion reported,Medium
+UA315,2024-03-10 00:00:00,33.66005,-84.34783,ATL,Tyre blowout during landing,High
+UA770,2023-11-02 00:00:00,41.80551,-87.76047,ORD,Evacuation slide deployed in-flight,Low
+UA552,2024-03-22 00:00:00,39.89212,-104.50034,DEN,Fuel imbalance alert,Low
+UA584,2023-12-01 00:00:00,40.01896,-104.81021,DEN,Hydraulic system warning,Medium
+UA390,2023-05-13 00:00:00,32.87743,-96.89603,DFW,Security threat reported onboard,Medium
+AS195,2023-09-30 00:00:00,40.61316,-73.94457,JFK,Runway incursion reported,High
+WN925,2023-02-22 00:00:00,40.52649,-73.83833,JFK,Electrical failure in cockpit,Low
+AA147,2024-04-03 00:00:00,40.67796,-73.87209,JFK,Cabin depressurization,Low
+UA970,2023-07-03 00:00:00,34.04131,-118.43203,LAX,Evacuation slide deployed in-flight,Low
+UA744,2023-06-09 00:00:00,32.85223,-97.08557,DFW,Fuel imbalance alert,Low
+UA606,2023-01-05 00:00:00,33.50867,-84.55826,ATL,Brake temperature warning,Low
+DL771,2023-11-22 00:00:00,39.8454,-104.77572,DEN,Engine vibration reported during takeoff,Low
+UA897,2023-02-03 00:00:00,33.59923,-84.50997,ATL,Brake temperature warning,Low
+DL923,2023-10-09 00:00:00,39.90756,-104.55174,DEN,In-flight turbulence incident,Low
+UA151,2023-12-16 00:00:00,32.85899,-97.14396,DFW,Brake temperature warning,Low
+UA567,2023-10-19 00:00:00,40.70272,-73.70235,JFK,Evacuation slide deployed in-flight,Low
+UA672,2023-07-26 00:00:00,32.97687,-97.0311,DFW,Autopilot disengagement,Low
+UA727,2023-01-28 00:00:00,39.79345,-104.89141,DEN,In-flight turbulence incident,Medium
+UA950,2023-01-14 00:00:00,32.98358,-96.9909,DFW,Evacuation slide deployed in-flight,Medium
+DL861,2023-10-01 00:00:00,33.78908,-84.67377,ATL,Evacuation slide deployed in-flight,Low
+UA869,2024-04-17 00:00:00,40.56419,-73.72048,JFK,Air traffic control miscommunication,Low
+UA596,2023-09-30 00:00:00,39.79144,-104.78035,DEN,Brake temperature warning,Low
+UA550,2023-05-25 00:00:00,33.90662,-118.61957,LAX,Runway incursion reported,Low
+WN378,2023-08-21 00:00:00,41.8912,-87.90523,ORD,Autopilot disengagement,Low
+UA182,2023-02-03 00:00:00,40.84975,-73.63901,JFK,Electrical failure in cockpit,Low
+WN492,2023-02-11 00:00:00,39.76854,-104.81048,DEN,Electrical failure in cockpit,Low
+WN165,2023-08-14 00:00:00,33.63558,-84.5919,ATL,Cargo door warning,Low
+AS655,2024-01-12 00:00:00,33.60056,-84.45195,ATL,Cargo door warning,Low
+AA311,2023-04-22 00:00:00,33.59851,-84.46945,ATL,Ice accumulation warning,Low
+UA812,2023-04-05 00:00:00,33.959,-118.31771,LAX,Tyre blowout during landing,High
+UA588,2023-12-01 00:00:00,33.88392,-118.33296,LAX,Wind shear encountered,Low
+UA871,2024-03-10 00:00:00,33.69333,-84.34492,ATL,Cargo door warning,Low
+UA865,2023-01-26 00:00:00,39.9494,-104.74837,DEN,Engine oil pressure low,Low
+UA325,2023-04-28 00:00:00,33.54573,-84.36424,ATL,Brake temperature warning,Medium
+UA546,2023-05-20 00:00:00,33.66267,-84.51853,ATL,Engine vibration reported during takeoff,Low
+UA444,2023-10-20 00:00:00,39.93253,-104.67112,DEN,Ice accumulation warning,Low
+DL960,2023-09-16 00:00:00,33.62184,-84.46885,ATL,Electrical failure in cockpit,Low
+UA646,2024-02-11 00:00:00,33.80158,-118.38553,LAX,Ice accumulation warning,Low
+UA677,2023-03-25 00:00:00,39.93967,-104.78517,DEN,Engine vibration reported during takeoff,Medium
+UA758,2024-04-03 00:00:00,33.87569,-84.48854,ATL,Electrical failure in cockpit,Medium
+UA286,2023-04-05 00:00:00,33.95857,-118.39956,LAX,Air traffic control miscommunication,Low
+UA435,2023-02-04 00:00:00,40.65965,-73.74278,JFK,Evacuation slide deployed in-flight,Low
+AS445,2023-12-15 00:00:00,33.67046,-84.46929,ATL,Air traffic control miscommunication,Low
+UA358,2023-10-13 00:00:00,33.89736,-118.36263,LAX,Cabin depressurization,Low
+AA867,2023-03-19 00:00:00,32.67609,-97.00192,DFW,Bird strike during climb,Medium
+AS329,2023-03-30 00:00:00,39.80602,-104.4815,DEN,Cabin pressure fluctuation,Medium
+AA872,2023-10-15 00:00:00,33.75452,-118.44365,LAX,Brake temperature warning,Medium
+WN959,2023-05-23 00:00:00,33.75551,-118.30881,LAX,Security threat reported onboard,Low
+DL344,2024-03-25 00:00:00,40.73054,-73.76854,JFK,Cabin depressurization,Low
+UA677,2024-03-10 00:00:00,40.45456,-73.85458,JFK,Evacuation slide deployed in-flight,Medium
+UA885,2023-02-11 00:00:00,42.01245,-87.94643,ORD,Hydraulic system warning,Low
+UA721,2023-08-19 00:00:00,39.93892,-104.57121,DEN,Landing gear warning light,Medium
+DL418,2023-10-16 00:00:00,33.94876,-118.45627,LAX,Tyre blowout during landing,Medium
+AA419,2023-05-03 00:00:00,32.85627,-97.01195,DFW,Ice accumulation warning,Low
+UA832,2023-10-30 00:00:00,40.77,-73.82256,JFK,Cabin pressure fluctuation,Low
+UA807,2023-02-16 00:00:00,39.99753,-104.71956,DEN,Brake temperature warning,Low
+UA813,2023-04-25 00:00:00,42.01994,-87.71722,ORD,Security threat reported onboard,Low
+UA915,2023-03-10 00:00:00,32.77912,-97.10603,DFW,Bird strike during climb,Low
+AS645,2023-12-12 00:00:00,33.65475,-84.16374,ATL,Wind shear encountered,Low
+UA618,2023-04-21 00:00:00,39.92044,-104.51573,DEN,Autopilot disengagement,Low
+AA969,2023-11-20 00:00:00,33.7572,-84.36086,ATL,Cabin depressurization,Low
+UA543,2024-01-28 00:00:00,42.13792,-87.95602,ORD,Evacuation slide deployed in-flight,High
+DL545,2023-08-02 00:00:00,40.57856,-73.82764,JFK,In-flight turbulence incident,Low
+UA730,2024-04-15 00:00:00,33.15077,-96.9856,DFW,Cabin depressurization,Low
+UA546,2024-04-01 00:00:00,39.77645,-104.60612,DEN,Tyre blowout during landing,Medium
+UA430,2023-06-03 00:00:00,40.54009,-73.94359,JFK,Cabin pressure fluctuation,Low
+UA561,2023-03-16 00:00:00,40.63475,-73.69736,JFK,Evacuation slide deployed in-flight,Low
+UA724,2023-12-13 00:00:00,39.70582,-104.69827,DEN,Ice accumulation warning,Low
+AS129,2023-06-28 00:00:00,33.68387,-84.58108,ATL,Autopilot disengagement,Low
+DL599,2023-12-10 00:00:00,40.74518,-73.84792,JFK,Wind shear encountered,Low
+UA448,2023-06-03 00:00:00,41.95171,-88.01555,ORD,Security threat reported onboard,Low
+UA669,2023-07-08 00:00:00,33.88377,-118.49956,LAX,In-flight turbulence incident,Low
+WN187,2023-08-03 00:00:00,40.77627,-73.81106,JFK,Cargo door warning,Low
+UA668,2023-06-07 00:00:00,40.89829,-73.88881,JFK,Cabin depressurization,Low
+UA558,2023-03-19 00:00:00,33.96508,-118.2267,LAX,Cabin pressure fluctuation,Low
+UA326,2023-04-23 00:00:00,33.76131,-84.63544,ATL,Brake temperature warning,Low
+UA779,2024-01-20 00:00:00,32.84013,-97.06015,DFW,Wind shear encountered,Medium
+UA666,2023-09-23 00:00:00,32.98022,-97.17065,DFW,Wind shear encountered,Low
+UA863,2023-03-28 00:00:00,32.87122,-96.93557,DFW,Autopilot disengagement,Low
+AS819,2023-11-19 00:00:00,33.70887,-84.54101,ATL,Air traffic control miscommunication,Low
+UA357,2023-02-23 00:00:00,40.72256,-73.96617,JFK,Landing gear warning light,Medium
+WN423,2023-04-02 00:00:00,33.90653,-118.43142,LAX,Engine oil pressure low,Low
+DL296,2023-03-19 00:00:00,40.76628,-73.73607,JFK,Cabin depressurization,High
+UA841,2023-06-14 00:00:00,32.86932,-97.14375,DFW,In-flight turbulence incident,Low
+UA389,2024-04-10 00:00:00,33.97421,-118.53361,LAX,Fuel imbalance alert,Low
+UA332,2023-01-02 00:00:00,42.00133,-87.8301,ORD,Hydraulic system warning,Low
+UA114,2024-01-21 00:00:00,39.82317,-104.68188,DEN,Engine oil pressure low,Medium
+DL380,2023-10-20 00:00:00,34.06627,-118.62549,LAX,Bird strike during climb,Low
+UA399,2024-03-03 00:00:00,39.8206,-104.64645,DEN,Electrical failure in cockpit,Low
+UA205,2023-02-28 00:00:00,33.95302,-118.39347,LAX,Tyre blowout during landing,Low
+UA580,2023-04-25 00:00:00,33.80684,-84.41933,ATL,Evacuation slide deployed in-flight,Low
+AS288,2023-10-08 00:00:00,33.87931,-118.45031,LAX,Air traffic control miscommunication,Medium
+UA216,2023-01-04 00:00:00,34.0519,-118.29336,LAX,Ice accumulation warning,Medium
+UA175,2023-05-08 00:00:00,32.91648,-97.13584,DFW,Bird strike during climb,Low
+DL252,2023-01-17 00:00:00,32.89,-97.29582,DFW,Runway incursion reported,Medium
+UA354,2023-04-27 00:00:00,34.10365,-118.25145,LAX,Engine oil pressure low,Low
+UA720,2024-03-30 00:00:00,33.01552,-97.01229,DFW,Security threat reported onboard,Low
+WN894,2023-07-09 00:00:00,32.83442,-97.03539,DFW,Ice accumulation warning,Low
+UA553,2023-12-29 00:00:00,41.9561,-87.78414,ORD,Tyre blowout during landing,High
+UA412,2023-07-06 00:00:00,32.9543,-97.21336,DFW,Security threat reported onboard,Low
+AA724,2023-04-21 00:00:00,39.68062,-104.68459,DEN,Landing gear warning light,Low
+WN740,2024-04-11 00:00:00,40.58374,-73.7659,JFK,Air traffic control miscommunication,Low
+UA260,2023-12-31 00:00:00,40.67876,-73.88298,JFK,Hydraulic system warning,Low
+UA176,2023-03-14 00:00:00,40.65928,-73.81159,JFK,Engine vibration reported during takeoff,Low
+UA561,2024-03-02 00:00:00,39.76163,-104.44191,DEN,Security threat reported onboard,Low
+UA398,2023-08-17 00:00:00,34.04017,-118.46795,LAX,Brake temperature warning,High
+UA823,2023-01-17 00:00:00,41.97116,-87.84283,ORD,Evacuation slide deployed in-flight,Low
+UA803,2023-11-14 00:00:00,40.76975,-73.7092,JFK,Air traffic control miscommunication,Medium
+UA777,2024-04-08 00:00:00,40.59593,-73.71481,JFK,Cargo door warning,Low
+UA657,2023-05-23 00:00:00,40.61297,-73.76589,JFK,Electrical failure in cockpit,Low
+UA946,2023-10-15 00:00:00,40.68426,-73.75733,JFK,Cabin pressure fluctuation,Low
+AA269,2024-04-13 00:00:00,41.78335,-87.93285,ORD,Security threat reported onboard,Low
+UA395,2023-01-07 00:00:00,33.68136,-84.44943,ATL,Landing gear warning light,High
+UA805,2023-08-03 00:00:00,42.04429,-87.82574,ORD,Ice accumulation warning,Low
+UA612,2024-02-06 00:00:00,33.11601,-97.00399,DFW,Cabin depressurization,Low
+UA182,2023-06-01 00:00:00,32.85345,-97.06892,DFW,Bird strike during climb,Low
+UA852,2023-10-20 00:00:00,41.72567,-87.77508,ORD,Security threat reported onboard,Low
+UA126,2023-02-08 00:00:00,33.98286,-118.60147,LAX,Brake temperature warning,Medium
+UA701,2024-02-13 00:00:00,33.95613,-118.23714,LAX,Air traffic control miscommunication,Low
+UA141,2023-04-18 00:00:00,40.64953,-73.67155,JFK,Cabin depressurization,High
+UA767,2023-08-15 00:00:00,33.63427,-84.48362,ATL,Air traffic control miscommunication,Low
+DL699,2023-08-24 00:00:00,33.46852,-84.60396,ATL,Cabin depressurization,Medium
+UA581,2023-06-26 00:00:00,41.94856,-87.98538,ORD,Cargo door warning,Low
+AS428,2023-11-20 00:00:00,39.92282,-104.5108,DEN,Landing gear warning light,Low
+DL437,2024-03-12 00:00:00,33.63323,-84.40468,ATL,Cabin depressurization,Low
+UA778,2023-12-10 00:00:00,33.57184,-84.34791,ATL,Engine oil pressure low,Low
+AA565,2023-10-22 00:00:00,34.17257,-118.47489,LAX,Autopilot disengagement,Low
+UA431,2023-02-21 00:00:00,33.92668,-118.47444,LAX,Ice accumulation warning,Medium
+UA944,2023-11-06 00:00:00,33.97052,-118.16297,LAX,Engine oil pressure low,Low
+UA523,2023-08-14 00:00:00,33.90001,-118.4189,LAX,Fuel imbalance alert,High
+UA470,2024-01-11 00:00:00,32.8473,-97.05481,DFW,Cabin depressurization,High
+UA878,2023-06-26 00:00:00,34.19177,-118.36154,LAX,Fuel imbalance alert,Low
+UA662,2024-01-14 00:00:00,40.78335,-73.83517,JFK,Runway incursion reported,Low
+UA815,2023-08-04 00:00:00,33.62799,-84.33356,ATL,Landing gear warning light,Low
+AA745,2024-01-16 00:00:00,33.13264,-96.94422,DFW,Brake temperature warning,Low
+DL418,2023-04-08 00:00:00,32.67233,-97.12584,DFW,Engine vibration reported during takeoff,Low
+UA517,2023-01-29 00:00:00,33.97019,-118.37505,LAX,Brake temperature warning,Low
+UA572,2023-09-18 00:00:00,33.851,-118.31101,LAX,Electrical failure in cockpit,Low
+UA833,2023-02-07 00:00:00,42.06701,-87.99997,ORD,In-flight turbulence incident,Low
+UA525,2024-03-29 00:00:00,33.72745,-84.42451,ATL,Cabin depressurization,Low
+WN567,2023-02-09 00:00:00,32.96509,-96.85333,DFW,Electrical failure in cockpit,Low
+UA295,2023-09-19 00:00:00,33.00707,-97.03164,DFW,In-flight turbulence incident,Low
+DL984,2023-02-28 00:00:00,33.98216,-118.337,LAX,Air traffic control miscommunication,Medium
+UA448,2023-12-11 00:00:00,32.80407,-96.97856,DFW,Air traffic control miscommunication,Medium
+AA389,2023-02-14 00:00:00,39.83939,-104.65753,DEN,Runway incursion reported,Low
+UA693,2023-06-07 00:00:00,40.01283,-104.63789,DEN,Cabin depressurization,Low
+DL557,2024-03-25 00:00:00,32.97868,-97.18694,DFW,Cabin depressurization,High
+AS440,2023-01-17 00:00:00,32.86859,-97.1262,DFW,Engine oil pressure low,Low
+UA566,2023-12-31 00:00:00,41.94782,-87.88298,ORD,Fuel imbalance alert,Medium
+WN685,2023-03-15 00:00:00,33.75534,-84.45174,ATL,Brake temperature warning,Low
+UA144,2023-12-01 00:00:00,41.99615,-87.86405,ORD,Cabin depressurization,Low
+UA495,2023-08-07 00:00:00,39.90514,-104.73258,DEN,Electrical failure in cockpit,Medium
+UA137,2024-01-09 00:00:00,40.7608,-73.93042,JFK,In-flight turbulence incident,Low
+UA439,2023-11-02 00:00:00,34.14364,-118.48249,LAX,Evacuation slide deployed in-flight,Low
+UA638,2024-04-04 00:00:00,33.6236,-84.63162,ATL,Engine vibration reported during takeoff,Medium
+DL519,2023-02-27 00:00:00,39.92393,-104.677,DEN,Electrical failure in cockpit,Low
+UA580,2023-02-08 00:00:00,42.10847,-87.89413,ORD,Autopilot disengagement,Low
+UA809,2023-10-15 00:00:00,33.66108,-84.48451,ATL,Cabin pressure fluctuation,Low
+AS972,2023-01-27 00:00:00,39.67142,-104.72887,DEN,Engine oil pressure low,Low
+UA424,2024-02-26 00:00:00,39.78501,-104.73911,DEN,Cabin depressurization,Low
+UA136,2023-10-08 00:00:00,32.94714,-96.86592,DFW,Cabin pressure fluctuation,Low
+WN746,2023-01-27 00:00:00,39.89037,-104.62652,DEN,Runway incursion reported,Medium
+WN864,2023-06-23 00:00:00,33.90458,-118.40617,LAX,Cargo door warning,Medium
+UA878,2024-03-03 00:00:00,39.98102,-104.62306,DEN,Landing gear warning light,Low
+UA270,2023-07-25 00:00:00,40.01991,-104.5221,DEN,Runway incursion reported,Low
+AA147,2023-01-09 00:00:00,41.97458,-88.04798,ORD,Bird strike during climb,Low
+UA467,2023-04-27 00:00:00,41.83326,-87.70837,ORD,Cargo door warning,High
+DL350,2023-07-28 00:00:00,32.85167,-97.28039,DFW,Cargo door warning,Low
+UA798,2023-02-01 00:00:00,40.76282,-73.70389,JFK,Hydraulic system warning,High
+DL180,2024-02-29 00:00:00,32.89448,-97.0951,DFW,Ice accumulation warning,Low
+UA799,2024-02-05 00:00:00,40.65758,-73.86928,JFK,Cabin depressurization,Low
+UA246,2023-11-06 00:00:00,40.79164,-73.69036,JFK,Evacuation slide deployed in-flight,Low
+UA570,2024-02-20 00:00:00,42.08091,-87.89574,ORD,Engine vibration reported during takeoff,Low
+UA394,2023-03-18 00:00:00,39.8382,-104.74539,DEN,Engine oil pressure low,Low
+DL175,2023-12-25 00:00:00,33.69991,-84.52598,ATL,Wind shear encountered,Medium
+UA406,2023-04-16 00:00:00,39.99604,-104.57974,DEN,Cargo door warning,Low
+UA567,2023-09-19 00:00:00,42.12619,-87.75253,ORD,Fuel imbalance alert,Low
+UA973,2023-07-23 00:00:00,33.67603,-84.35996,ATL,Landing gear warning light,Medium
+WN490,2023-11-14 00:00:00,32.86336,-96.79666,DFW,Wind shear encountered,Low
+UA402,2023-07-27 00:00:00,39.98784,-104.65244,DEN,Runway incursion reported,Low
+AA949,2023-01-03 00:00:00,40.02466,-104.71823,DEN,Ice accumulation warning,Low
+UA108,2023-01-12 00:00:00,32.79374,-97.09093,DFW,Bird strike during climb,Medium
+UA863,2023-07-02 00:00:00,33.6873,-84.62784,ATL,Runway incursion reported,Low
+WN721,2024-02-16 00:00:00,42.03995,-88.00718,ORD,Brake temperature warning,Low
+WN735,2024-03-22 00:00:00,42.02683,-87.94689,ORD,Electrical failure in cockpit,Low
+UA742,2023-08-01 00:00:00,39.94939,-104.58488,DEN,Bird strike during climb,Low
+UA907,2023-01-04 00:00:00,33.72408,-84.35129,ATL,Bird strike during climb,Low
+UA473,2023-02-19 00:00:00,39.87855,-104.56749,DEN,Electrical failure in cockpit,Low
+UA402,2023-04-27 00:00:00,42.13547,-88.05925,ORD,Cargo door warning,Low
+DL305,2024-02-24 00:00:00,40.478,-73.83538,JFK,Engine oil pressure low,Low
+AS643,2023-09-03 00:00:00,32.76918,-97.19288,DFW,Air traffic control miscommunication,Low
+DL363,2023-01-21 00:00:00,33.57414,-84.38852,ATL,Runway incursion reported,Medium
+AS923,2023-08-28 00:00:00,34.10759,-118.28094,LAX,Evacuation slide deployed in-flight,Low
+UA244,2023-01-02 00:00:00,40.67368,-73.80725,JFK,Ice accumulation warning,Low
+UA474,2023-11-14 00:00:00,33.92161,-118.49325,LAX,Ice accumulation warning,Low
+AA370,2023-08-19 00:00:00,33.01178,-97.21197,DFW,Landing gear warning light,Low
+UA477,2024-01-14 00:00:00,39.7687,-104.83482,DEN,Air traffic control miscommunication,Medium
+UA490,2023-09-18 00:00:00,39.96687,-104.74301,DEN,Wind shear encountered,Low
+UA791,2023-10-28 00:00:00,40.5646,-73.85411,JFK,Cabin depressurization,Medium
+AA734,2023-04-28 00:00:00,32.90458,-97.1663,DFW,Autopilot disengagement,Low
+UA326,2023-12-16 00:00:00,39.83975,-104.78672,DEN,Cabin pressure fluctuation,Low
+UA817,2024-04-04 00:00:00,41.89476,-87.85283,ORD,Cargo door warning,Low
+UA243,2023-05-01 00:00:00,33.77793,-118.28793,LAX,Bird strike during climb,Low
+UA604,2023-11-01 00:00:00,33.97979,-118.3655,LAX,Landing gear warning light,Low
+WN650,2023-07-26 00:00:00,40.7997,-73.54732,JFK,Ice accumulation warning,Low
+UA479,2023-11-30 00:00:00,39.86094,-104.74095,DEN,Engine oil pressure low,High
+UA701,2023-10-12 00:00:00,39.73237,-104.60928,DEN,Electrical failure in cockpit,Low
+UA770,2023-02-28 00:00:00,33.94946,-118.60832,LAX,Cabin depressurization,Low
+UA517,2023-10-03 00:00:00,42.07023,-87.87025,ORD,Bird strike during climb,Low
+AS322,2024-03-02 00:00:00,33.84554,-84.44206,ATL,Evacuation slide deployed in-flight,Low
+WN975,2024-01-19 00:00:00,41.98499,-87.89284,ORD,Landing gear warning light,Low
+AS657,2023-12-07 00:00:00,39.88376,-104.73727,DEN,Wind shear encountered,Low
+AA507,2023-01-05 00:00:00,41.96832,-87.90758,ORD,Fuel imbalance alert,Low
+UA968,2023-01-26 00:00:00,33.65681,-84.32303,ATL,Cabin pressure fluctuation,Low
+WN757,2023-11-24 00:00:00,39.9179,-104.6581,DEN,Security threat reported onboard,Medium
+AA151,2023-10-31 00:00:00,41.90144,-87.87524,ORD,Brake temperature warning,Low
+DL905,2023-07-11 00:00:00,32.99741,-97.06324,DFW,Fuel imbalance alert,Medium
+UA949,2023-03-18 00:00:00,32.83647,-97.07067,DFW,Fuel imbalance alert,Low
+UA321,2023-04-12 00:00:00,40.76025,-73.90086,JFK,Autopilot disengagement,Medium
+DL907,2023-03-23 00:00:00,32.86048,-96.96271,DFW,Engine vibration reported during takeoff,Medium
+UA979,2023-05-09 00:00:00,40.65335,-73.88097,JFK,Electrical failure in cockpit,Low
+UA356,2023-05-23 00:00:00,40.77511,-73.61946,JFK,Landing gear warning light,Low
+AA234,2024-02-07 00:00:00,33.84246,-118.62384,LAX,Wind shear encountered,Low
+WN702,2023-10-18 00:00:00,42.1428,-87.80392,ORD,Engine vibration reported during takeoff,Low
+DL371,2024-03-05 00:00:00,34.2558,-118.4052,LAX,Electrical failure in cockpit,High
+UA638,2024-03-25 00:00:00,33.89618,-118.41049,LAX,Cabin pressure fluctuation,Low
+UA559,2023-01-12 00:00:00,41.98756,-88.02304,ORD,In-flight turbulence incident,Low
+UA211,2023-08-16 00:00:00,33.77513,-84.37171,ATL,In-flight turbulence incident,Medium
+WN729,2023-12-30 00:00:00,34.01749,-118.38038,LAX,In-flight turbulence incident,Low
+UA569,2023-07-22 00:00:00,39.73437,-104.7204,DEN,Engine vibration reported during takeoff,Low
+AA590,2023-10-02 00:00:00,33.63333,-84.52313,ATL,Cargo door warning,Low
+UA602,2023-02-21 00:00:00,39.90834,-104.65152,DEN,Evacuation slide deployed in-flight,Low
+UA182,2023-05-16 00:00:00,42.07043,-88.06195,ORD,Security threat reported onboard,Medium
+DL167,2024-03-08 00:00:00,40.53544,-73.77178,JFK,Air traffic control miscommunication,Medium
+UA748,2023-02-08 00:00:00,33.08156,-97.01577,DFW,Engine oil pressure low,Low
+AS490,2024-03-01 00:00:00,32.81464,-97.05303,DFW,In-flight turbulence incident,Medium
+UA564,2023-06-21 00:00:00,32.90942,-97.08094,DFW,Security threat reported onboard,High
+UA201,2024-01-10 00:00:00,39.88085,-104.44715,DEN,Landing gear warning light,Low
+UA838,2023-01-26 00:00:00,40.69126,-73.90774,JFK,Cargo door warning,Low
+UA333,2023-05-05 00:00:00,33.65435,-84.40156,ATL,Autopilot disengagement,Low
+UA508,2023-12-13 00:00:00,33.56486,-84.33861,ATL,Landing gear warning light,Medium
+AS537,2023-03-01 00:00:00,42.08148,-87.84792,ORD,Air traffic control miscommunication,Medium
+AS256,2024-04-02 00:00:00,40.07837,-104.79598,DEN,Cabin depressurization,Low
+UA193,2023-04-18 00:00:00,33.90619,-118.36315,LAX,Cabin pressure fluctuation,Low
+UA198,2024-03-07 00:00:00,39.74976,-104.7462,DEN,Wind shear encountered,Low
+DL669,2023-01-11 00:00:00,33.88585,-118.54548,LAX,Tyre blowout during landing,Low
+UA675,2023-09-11 00:00:00,41.93512,-87.97399,ORD,Landing gear warning light,Low
+UA462,2023-05-26 00:00:00,39.71254,-104.86351,DEN,Cargo door warning,Medium
+AA394,2023-08-29 00:00:00,32.9359,-96.91759,DFW,Runway incursion reported,Low
+AS206,2023-10-15 00:00:00,32.85899,-97.05836,DFW,In-flight turbulence incident,Low
+WN258,2023-12-19 00:00:00,39.69295,-104.5141,DEN,Cabin depressurization,Low
+WN967,2023-03-11 00:00:00,33.88294,-118.42825,LAX,Wind shear encountered,Low
+UA476,2023-05-10 00:00:00,33.88951,-118.38796,LAX,Air traffic control miscommunication,Low
+UA331,2023-09-21 00:00:00,33.66979,-84.34475,ATL,Engine oil pressure low,Low
+UA728,2024-01-16 00:00:00,39.72037,-104.69111,DEN,Engine oil pressure low,Low
+AA723,2023-06-21 00:00:00,39.9256,-104.47755,DEN,Air traffic control miscommunication,Medium
+AA284,2023-10-13 00:00:00,42.06544,-88.0845,ORD,Runway incursion reported,Low
+AS459,2024-03-28 00:00:00,33.99548,-118.50057,LAX,Hydraulic system warning,Low
+DL679,2023-07-27 00:00:00,39.7005,-104.85439,DEN,Ice accumulation warning,Medium
+UA245,2023-01-12 00:00:00,39.9875,-104.79365,DEN,Engine vibration reported during takeoff,Medium
+UA864,2023-05-24 00:00:00,32.80558,-97.06622,DFW,Fuel imbalance alert,High
+UA529,2023-04-28 00:00:00,33.75801,-84.41393,ATL,Autopilot disengagement,Low
+DL478,2024-03-29 00:00:00,42.05993,-87.97353,ORD,Autopilot disengagement,Medium
+UA710,2023-09-29 00:00:00,33.81778,-118.40601,LAX,Bird strike during climb,Low
+DL261,2023-10-19 00:00:00,32.78984,-97.12697,DFW,Bird strike during climb,Low
+UA378,2023-12-07 00:00:00,33.51467,-84.49997,ATL,Cargo door warning,Low
+UA721,2023-11-19 00:00:00,33.52636,-84.64339,ATL,Cargo door warning,Low
+UA320,2023-11-07 00:00:00,32.9418,-97.09105,DFW,Landing gear warning light,Low
+AS540,2023-11-12 00:00:00,33.90312,-118.3621,LAX,Runway incursion reported,High
+UA598,2023-02-11 00:00:00,33.11609,-96.96993,DFW,Runway incursion reported,Low
+AA325,2023-06-07 00:00:00,33.56639,-84.3847,ATL,Security threat reported onboard,Low
+AA107,2023-01-14 00:00:00,40.6238,-73.85367,JFK,Runway incursion reported,Low
+WN885,2023-05-10 00:00:00,40.71253,-73.76608,JFK,Air traffic control miscommunication,Low
+UA435,2023-09-10 00:00:00,34.18809,-118.43851,LAX,Engine vibration reported during takeoff,Medium
+UA864,2024-01-16 00:00:00,33.66539,-84.43966,ATL,Hydraulic system warning,Medium
+DL489,2023-05-21 00:00:00,32.83595,-97.0567,DFW,Brake temperature warning,Low
+UA672,2023-01-25 00:00:00,39.8453,-104.67908,DEN,Wind shear encountered,Medium
+UA506,2023-05-08 00:00:00,39.67586,-104.73685,DEN,Bird strike during climb,Low
+UA119,2023-05-26 00:00:00,33.70928,-84.474,ATL,Cabin pressure fluctuation,Low
+AS689,2023-02-12 00:00:00,33.78978,-84.30622,ATL,Tyre blowout during landing,Low
+UA826,2023-01-05 00:00:00,39.83476,-104.52313,DEN,Cargo door warning,Low
+UA217,2023-09-24 00:00:00,33.70129,-84.29067,ATL,Engine vibration reported during takeoff,Low
+AS275,2024-04-15 00:00:00,32.84054,-97.07909,DFW,Evacuation slide deployed in-flight,Low
+AS190,2023-07-09 00:00:00,33.55972,-84.48415,ATL,Landing gear warning light,Low
+WN546,2023-04-07 00:00:00,32.91296,-97.0377,DFW,Ice accumulation warning,Medium
+UA180,2023-12-25 00:00:00,33.57742,-84.47883,ATL,Runway incursion reported,Low
+AS326,2024-02-26 00:00:00,41.8742,-87.9258,ORD,Hydraulic system warning,Medium
+UA622,2023-03-03 00:00:00,39.72882,-104.53766,DEN,Landing gear warning light,Low
+UA622,2024-04-14 00:00:00,40.69545,-73.70218,JFK,Wind shear encountered,Medium
+AS844,2023-07-02 00:00:00,39.79845,-104.9313,DEN,Electrical failure in cockpit,Low
+WN205,2023-03-20 00:00:00,40.81622,-73.6987,JFK,Air traffic control miscommunication,Low
+WN277,2024-01-24 00:00:00,32.79749,-97.04109,DFW,Electrical failure in cockpit,Low
+UA281,2023-07-10 00:00:00,39.68182,-104.6727,DEN,Cabin depressurization,Low
+UA872,2023-07-15 00:00:00,32.85794,-96.98262,DFW,Tyre blowout during landing,Low
+UA797,2023-08-15 00:00:00,32.75971,-97.19936,DFW,Security threat reported onboard,Low
+AS984,2023-01-21 00:00:00,39.88524,-104.74527,DEN,Autopilot disengagement,High
+DL550,2023-05-10 00:00:00,33.78169,-118.44917,LAX,Cabin depressurization,Medium
+UA746,2023-11-10 00:00:00,42.05949,-87.97595,ORD,Air traffic control miscommunication,Medium
+UA157,2023-09-04 00:00:00,42.05281,-87.87497,ORD,In-flight turbulence incident,Low
+UA417,2023-03-20 00:00:00,33.62432,-84.33049,ATL,Evacuation slide deployed in-flight,Medium
+AA158,2023-03-10 00:00:00,41.98746,-87.73269,ORD,Runway incursion reported,Low
+UA760,2023-11-29 00:00:00,34.05091,-118.35096,LAX,Security threat reported onboard,Low
+UA619,2023-01-17 00:00:00,33.50199,-84.52526,ATL,Evacuation slide deployed in-flight,Low
+UA667,2024-02-03 00:00:00,39.74843,-104.85006,DEN,Bird strike during climb,Low
+UA929,2023-12-18 00:00:00,32.88431,-97.10975,DFW,Fuel imbalance alert,Low
+AS719,2024-01-03 00:00:00,33.69741,-84.29698,ATL,In-flight turbulence incident,Low
+DL163,2024-03-09 00:00:00,33.61557,-84.43984,ATL,Landing gear warning light,High
+AS831,2023-04-29 00:00:00,33.87725,-118.31572,LAX,In-flight turbulence incident,High
+DL140,2024-01-09 00:00:00,40.72446,-73.78087,JFK,Evacuation slide deployed in-flight,Low
+UA636,2023-10-15 00:00:00,32.81153,-97.00208,DFW,Security threat reported onboard,Low
+DL472,2024-02-28 00:00:00,41.8957,-87.88473,ORD,Runway incursion reported,Low
+UA518,2023-11-30 00:00:00,42.18422,-88.01522,ORD,Security threat reported onboard,High
+AA908,2024-02-18 00:00:00,39.87716,-104.62095,DEN,Autopilot disengagement,Low
+UA437,2023-04-23 00:00:00,33.80754,-118.3172,LAX,Engine oil pressure low,Medium
+UA390,2023-04-29 00:00:00,41.9436,-87.84995,ORD,Security threat reported onboard,Low
+DL441,2023-05-29 00:00:00,33.91673,-118.24777,LAX,Tyre blowout during landing,Medium
+DL458,2023-12-26 00:00:00,41.84924,-87.88149,ORD,Ice accumulation warning,Low
+DL709,2023-09-13 00:00:00,39.88873,-104.66917,DEN,Cabin pressure fluctuation,High
+UA672,2023-10-12 00:00:00,33.58268,-84.39669,ATL,Autopilot disengagement,Low
+DL786,2024-03-11 00:00:00,39.80324,-104.61356,DEN,In-flight turbulence incident,Low
+UA761,2023-03-29 00:00:00,39.75873,-104.84946,DEN,Cargo door warning,Medium
+UA470,2023-12-19 00:00:00,33.75168,-118.40066,LAX,Wind shear encountered,Low
+UA284,2024-02-17 00:00:00,40.65757,-73.86373,JFK,Autopilot disengagement,Medium
+UA296,2023-08-17 00:00:00,40.62745,-73.90053,JFK,Electrical failure in cockpit,Low
+DL179,2023-05-09 00:00:00,42.03251,-87.87074,ORD,Landing gear warning light,Low
+UA889,2023-08-12 00:00:00,32.93079,-96.95631,DFW,In-flight turbulence incident,Low
+AA777,2024-02-09 00:00:00,42.05058,-87.76025,ORD,Security threat reported onboard,Low
+DL711,2024-02-29 00:00:00,33.70536,-84.64942,ATL,Electrical failure in cockpit,Low
+DL285,2023-08-22 00:00:00,39.77761,-104.60737,DEN,Security threat reported onboard,High
+DL838,2024-01-12 00:00:00,33.74934,-84.3497,ATL,Bird strike during climb,Medium
+UA473,2023-03-11 00:00:00,39.77438,-104.88161,DEN,Brake temperature warning,Medium
+UA725,2023-01-24 00:00:00,41.93279,-87.94067,ORD,Evacuation slide deployed in-flight,Low
+WN646,2023-11-06 00:00:00,40.48873,-73.65184,JFK,Runway incursion reported,Medium
+UA955,2023-01-20 00:00:00,40.73935,-73.80369,JFK,Wind shear encountered,Low
+UA551,2023-01-03 00:00:00,33.64934,-84.49689,ATL,Runway incursion reported,Low
+UA614,2024-01-23 00:00:00,32.8949,-97.10465,DFW,Cargo door warning,Low
+DL936,2024-02-07 00:00:00,40.71914,-73.83322,JFK,Security threat reported onboard,Low
+DL993,2024-01-01 00:00:00,42.02411,-87.98664,ORD,Bird strike during climb,Medium
+UA995,2023-11-10 00:00:00,42.07338,-87.8367,ORD,Engine oil pressure low,Low
+UA828,2024-03-07 00:00:00,32.80645,-97.06831,DFW,Landing gear warning light,Medium
+UA185,2023-05-26 00:00:00,40.58304,-73.79522,JFK,Air traffic control miscommunication,Medium
+UA625,2023-10-30 00:00:00,40.53888,-73.59269,JFK,Cargo door warning,Low
+UA327,2023-08-28 00:00:00,33.69121,-84.52244,ATL,Wind shear encountered,High
+AA524,2023-05-04 00:00:00,34.06146,-118.60224,LAX,Ice accumulation warning,Low
+UA482,2023-03-02 00:00:00,40.7131,-73.61055,JFK,Ice accumulation warning,Low
+UA483,2023-07-17 00:00:00,40.4517,-73.76107,JFK,Engine vibration reported during takeoff,High
+AS201,2024-03-01 00:00:00,39.81496,-104.61933,DEN,Autopilot disengagement,Low
+DL240,2023-11-16 00:00:00,33.99296,-118.46177,LAX,Runway incursion reported,Low
+UA812,2023-09-18 00:00:00,40.73222,-73.6353,JFK,Cabin depressurization,Low
+UA730,2023-10-22 00:00:00,33.65447,-118.42459,LAX,Cabin pressure fluctuation,Medium
+AA362,2023-11-22 00:00:00,40.61388,-73.87803,JFK,Electrical failure in cockpit,High
+UA844,2024-04-17 00:00:00,32.88688,-97.05837,DFW,In-flight turbulence incident,Low
+UA213,2023-06-12 00:00:00,42.06723,-87.97417,ORD,Brake temperature warning,High
+UA224,2024-02-04 00:00:00,33.91122,-118.25169,LAX,Brake temperature warning,Medium
+UA754,2023-02-13 00:00:00,32.91429,-97.05493,DFW,Evacuation slide deployed in-flight,Low
+UA213,2023-12-04 00:00:00,33.39428,-84.3397,ATL,Security threat reported onboard,Low
+UA116,2023-05-07 00:00:00,39.9348,-104.76131,DEN,In-flight turbulence incident,Low
+UA347,2024-04-16 00:00:00,39.92634,-104.66253,DEN,Electrical failure in cockpit,Low
+UA539,2024-01-11 00:00:00,34.03006,-118.50042,LAX,Security threat reported onboard,High
+AS346,2023-03-23 00:00:00,32.9415,-97.10833,DFW,Cargo door warning,Low
+DL780,2023-11-01 00:00:00,39.90274,-104.67576,DEN,Cabin pressure fluctuation,Low
+UA469,2024-03-20 00:00:00,33.86814,-118.48953,LAX,In-flight turbulence incident,Medium
+UA619,2023-10-16 00:00:00,32.79532,-97.03183,DFW,Engine oil pressure low,Medium
+AA499,2024-03-17 00:00:00,33.78055,-84.40712,ATL,Bird strike during climb,Low
+UA482,2023-04-08 00:00:00,41.97034,-87.9878,ORD,Engine vibration reported during takeoff,Low
+AS907,2023-12-07 00:00:00,33.98203,-118.4969,LAX,Wind shear encountered,Low
+WN850,2023-11-26 00:00:00,39.61981,-104.77317,DEN,Landing gear warning light,Low
+UA852,2023-03-27 00:00:00,42.07305,-87.97382,ORD,Electrical failure in cockpit,Low
+AA460,2023-02-28 00:00:00,32.83218,-97.04389,DFW,Autopilot disengagement,Medium
+DL950,2024-03-23 00:00:00,39.94034,-104.70847,DEN,Evacuation slide deployed in-flight,Low
+UA746,2023-03-09 00:00:00,40.65357,-73.61563,JFK,Electrical failure in cockpit,Low
+UA833,2023-08-01 00:00:00,33.5393,-84.38215,ATL,Bird strike during climb,Low
+UA306,2024-01-16 00:00:00,33.97335,-118.41169,LAX,Fuel imbalance alert,Medium
+AA423,2024-03-22 00:00:00,41.88982,-87.89341,ORD,In-flight turbulence incident,Low
+UA934,2023-02-13 00:00:00,32.87885,-96.71869,DFW,Cabin depressurization,Low
+UA137,2024-03-11 00:00:00,39.6357,-104.77595,DEN,Fuel imbalance alert,Low
+UA465,2023-07-16 00:00:00,33.75852,-118.38843,LAX,Autopilot disengagement,Medium
+UA227,2023-06-13 00:00:00,41.88426,-88.01729,ORD,Cargo door warning,Low
+UA861,2024-02-03 00:00:00,33.64349,-84.34282,ATL,Ice accumulation warning,Low
+AS291,2024-04-12 00:00:00,33.51382,-84.40683,ATL,Cabin depressurization,Low
+AS916,2023-12-31 00:00:00,32.87035,-96.98966,DFW,Air traffic control miscommunication,High
+UA844,2024-02-21 00:00:00,33.59406,-84.41913,ATL,Cabin pressure fluctuation,Low
+UA716,2024-02-20 00:00:00,40.54579,-73.73574,JFK,Engine oil pressure low,Low
+UA428,2024-03-29 00:00:00,33.97561,-118.46275,LAX,Cabin pressure fluctuation,Low
+AS776,2023-05-09 00:00:00,42.00511,-87.9094,ORD,Runway incursion reported,Low
+UA717,2023-09-26 00:00:00,39.89509,-104.74944,DEN,Cargo door warning,Low
+DL806,2023-07-15 00:00:00,33.69466,-84.39552,ATL,Wind shear encountered,Low
+UA143,2023-05-13 00:00:00,39.90448,-104.69574,DEN,Wind shear encountered,Low
+UA545,2023-03-01 00:00:00,41.94823,-88.10043,ORD,Bird strike during climb,Medium
+UA787,2023-12-30 00:00:00,39.74514,-104.75618,DEN,Ice accumulation warning,Medium
+AS625,2023-03-17 00:00:00,39.75617,-104.72268,DEN,Hydraulic system warning,Medium
+AA246,2023-09-05 00:00:00,32.92126,-97.08391,DFW,Evacuation slide deployed in-flight,Low
+AA229,2023-02-03 00:00:00,33.87533,-118.61147,LAX,Brake temperature warning,Medium
+AS470,2024-03-16 00:00:00,33.83109,-84.59039,ATL,Tyre blowout during landing,Medium
+AA719,2023-04-18 00:00:00,40.68167,-73.78052,JFK,Evacuation slide deployed in-flight,Low
+AS480,2023-07-31 00:00:00,33.58779,-84.39837,ATL,Cabin pressure fluctuation,Low
+UA240,2023-09-05 00:00:00,32.85669,-96.98557,DFW,Wind shear encountered,Medium
+UA421,2023-12-09 00:00:00,39.83367,-104.73162,DEN,Air traffic control miscommunication,Medium
+WN216,2023-10-30 00:00:00,33.84157,-118.47627,LAX,Hydraulic system warning,Low
+UA630,2023-04-27 00:00:00,33.7825,-84.47967,ATL,Engine oil pressure low,High
+UA368,2024-02-05 00:00:00,42.05096,-87.83815,ORD,Evacuation slide deployed in-flight,Low
+WN726,2023-07-29 00:00:00,42.06453,-87.87028,ORD,Cabin depressurization,Low
+WN225,2024-03-18 00:00:00,40.62804,-73.87555,JFK,Cabin pressure fluctuation,Low
+UA276,2023-04-10 00:00:00,39.76091,-104.70256,DEN,Evacuation slide deployed in-flight,Low
+UA929,2023-11-30 00:00:00,39.81833,-104.67384,DEN,Autopilot disengagement,Low
+AS826,2023-09-27 00:00:00,33.91941,-118.36633,LAX,Engine oil pressure low,Medium
+UA397,2023-03-24 00:00:00,42.06294,-87.85538,ORD,Hydraulic system warning,High
+DL912,2023-07-25 00:00:00,41.88506,-87.7963,ORD,In-flight turbulence incident,Medium
+WN224,2023-10-02 00:00:00,40.67803,-73.59428,JFK,Electrical failure in cockpit,Low
+WN909,2023-10-13 00:00:00,33.64528,-84.4861,ATL,Engine vibration reported during takeoff,Low
+AS667,2023-05-22 00:00:00,32.73626,-96.96008,DFW,Wind shear encountered,Low
+UA922,2023-08-10 00:00:00,32.83134,-97.02312,DFW,Electrical failure in cockpit,Medium
+UA188,2023-01-02 00:00:00,34.03663,-118.23744,LAX,Runway incursion reported,Medium
+UA834,2023-05-07 00:00:00,39.91202,-104.44691,DEN,Cabin depressurization,Medium
+UA520,2024-03-07 00:00:00,33.64501,-84.47481,ATL,Tyre blowout during landing,High
+UA228,2023-02-19 00:00:00,42.16467,-87.81897,ORD,Cabin pressure fluctuation,Low
+UA577,2023-12-23 00:00:00,39.76336,-104.64836,DEN,In-flight turbulence incident,Low
+AS231,2024-03-20 00:00:00,32.78486,-97.04899,DFW,Tyre blowout during landing,Low
+DL886,2023-11-04 00:00:00,40.85182,-73.88941,JFK,Cargo door warning,Low
+UA989,2023-10-03 00:00:00,33.99959,-118.28853,LAX,Landing gear warning light,Low
+UA256,2023-12-14 00:00:00,41.95399,-87.98922,ORD,Hydraulic system warning,Low
+DL430,2023-12-08 00:00:00,39.7665,-104.76529,DEN,Brake temperature warning,Low
+AS631,2023-12-27 00:00:00,42.20769,-87.8942,ORD,Cabin pressure fluctuation,Low
+UA301,2023-06-02 00:00:00,39.93676,-104.6516,DEN,Engine oil pressure low,Low
+UA228,2023-12-28 00:00:00,39.71547,-104.68051,DEN,Runway incursion reported,Low
+UA646,2023-08-25 00:00:00,34.19005,-118.4788,LAX,In-flight turbulence incident,Low
+DL706,2023-02-18 00:00:00,33.00535,-97.09575,DFW,Electrical failure in cockpit,Low
+DL774,2023-11-14 00:00:00,32.84605,-97.04952,DFW,Security threat reported onboard,Low
+AS962,2023-12-10 00:00:00,32.91822,-97.1132,DFW,Bird strike during climb,Low
+AA183,2023-11-03 00:00:00,33.96114,-118.30925,LAX,Tyre blowout during landing,Low
+UA766,2023-07-11 00:00:00,40.60139,-73.84339,JFK,Tyre blowout during landing,Low
+UA732,2023-04-18 00:00:00,39.91402,-104.63737,DEN,Engine vibration reported during takeoff,Low
+UA742,2023-04-19 00:00:00,32.73878,-96.9485,DFW,Runway incursion reported,Medium
+UA594,2023-04-13 00:00:00,40.72237,-73.72458,JFK,Ice accumulation warning,Low
+UA564,2023-12-06 00:00:00,33.87077,-118.37422,LAX,Bird strike during climb,Low
+DL550,2023-05-07 00:00:00,33.56967,-84.40136,ATL,Cabin depressurization,Low
+UA308,2024-02-28 00:00:00,41.96547,-87.89721,ORD,Security threat reported onboard,Low
+DL420,2023-05-23 00:00:00,39.80347,-104.52162,DEN,Autopilot disengagement,Low
+AS508,2023-07-21 00:00:00,40.75892,-73.9515,JFK,Wind shear encountered,Low
+UA675,2023-07-29 00:00:00,33.91147,-118.44023,LAX,Autopilot disengagement,Low
+WN577,2023-04-27 00:00:00,33.82723,-118.39764,LAX,Air traffic control miscommunication,Low
+UA353,2023-09-25 00:00:00,40.62845,-73.96628,JFK,Landing gear warning light,Low
+AA397,2024-04-18 00:00:00,33.61924,-84.5766,ATL,Security threat reported onboard,Medium
+UA354,2023-10-21 00:00:00,40.6884,-73.69354,JFK,Autopilot disengagement,Low
+UA838,2023-04-09 00:00:00,41.98671,-87.9854,ORD,Fuel imbalance alert,Medium
+DL610,2023-01-30 00:00:00,33.03615,-97.063,DFW,Evacuation slide deployed in-flight,Medium
+UA415,2023-06-05 00:00:00,33.7863,-84.38238,ATL,Engine vibration reported during takeoff,Low
+UA502,2023-03-16 00:00:00,32.71333,-96.92088,DFW,Evacuation slide deployed in-flight,Low
+WN320,2023-04-10 00:00:00,32.95458,-97.27717,DFW,Wind shear encountered,Low
+AA151,2023-06-05 00:00:00,41.86803,-87.92639,ORD,Cabin depressurization,Medium
+UA963,2023-07-12 00:00:00,39.84065,-104.62914,DEN,Cabin depressurization,Low
+UA649,2024-02-06 00:00:00,33.80033,-118.28717,LAX,Landing gear warning light,Low
+UA237,2023-05-06 00:00:00,41.89205,-87.88406,ORD,Wind shear encountered,Medium
+UA474,2024-01-27 00:00:00,33.81817,-118.46775,LAX,Ice accumulation warning,High
+AA683,2023-11-17 00:00:00,32.8997,-96.99618,DFW,Fuel imbalance alert,Low
+AS666,2023-06-03 00:00:00,41.86879,-87.94108,ORD,Cabin pressure fluctuation,Low
+UA616,2023-11-11 00:00:00,33.63264,-84.54597,ATL,Engine oil pressure low,Low
+UA945,2023-05-02 00:00:00,32.9666,-97.07138,DFW,Security threat reported onboard,Low
+UA231,2023-07-20 00:00:00,33.93087,-118.36373,LAX,Ice accumulation warning,Low
+AS913,2023-10-05 00:00:00,41.85921,-87.89061,ORD,Engine oil pressure low,Low
+AS873,2023-06-11 00:00:00,40.58968,-73.84575,JFK,Fuel imbalance alert,Medium
+UA621,2024-01-22 00:00:00,33.53036,-84.51544,ATL,In-flight turbulence incident,Low
+AA146,2023-12-07 00:00:00,33.81545,-118.495,LAX,Electrical failure in cockpit,High
+AS923,2023-12-25 00:00:00,33.51254,-84.41147,ATL,In-flight turbulence incident,Low
+UA252,2023-05-05 00:00:00,33.10431,-97.12994,DFW,In-flight turbulence incident,Low
+DL435,2024-03-10 00:00:00,32.96793,-96.95249,DFW,Autopilot disengagement,Low
+DL502,2023-08-02 00:00:00,33.09297,-96.92526,DFW,Runway incursion reported,Low
+UA444,2023-12-07 00:00:00,32.90538,-97.04647,DFW,In-flight turbulence incident,Medium
+UA601,2024-01-09 00:00:00,39.88147,-104.62543,DEN,Tyre blowout during landing,Low
+UA586,2023-05-20 00:00:00,33.87375,-118.40093,LAX,Wind shear encountered,Low
+AS789,2024-02-29 00:00:00,33.92914,-118.52576,LAX,Cargo door warning,High
+UA415,2023-08-24 00:00:00,39.8509,-104.50805,DEN,Engine vibration reported during takeoff,Low
+UA585,2023-08-16 00:00:00,41.88803,-87.97028,ORD,Tyre blowout during landing,Medium
+UA333,2024-02-03 00:00:00,39.93031,-104.65346,DEN,Bird strike during climb,Low
+UA591,2024-04-09 00:00:00,40.7607,-73.81179,JFK,In-flight turbulence incident,Medium
+UA893,2023-09-17 00:00:00,33.62603,-84.28906,ATL,Electrical failure in cockpit,High
+WN132,2023-11-24 00:00:00,32.87741,-96.92462,DFW,Landing gear warning light,Medium
+WN119,2023-12-18 00:00:00,33.55847,-84.53607,ATL,Autopilot disengagement,Low
+UA255,2023-11-21 00:00:00,33.87002,-84.40887,ATL,Fuel imbalance alert,High
+UA613,2023-07-27 00:00:00,33.12087,-96.99199,DFW,Cabin depressurization,Low
+AA822,2023-07-23 00:00:00,40.57863,-73.69186,JFK,In-flight turbulence incident,Low
+WN674,2023-02-26 00:00:00,41.96623,-87.94055,ORD,Cabin depressurization,Low
+UA485,2024-02-03 00:00:00,42.02074,-87.96428,ORD,Hydraulic system warning,Medium
+UA645,2023-05-08 00:00:00,41.99666,-87.89038,ORD,Engine oil pressure low,Medium
+AS792,2023-07-10 00:00:00,39.85345,-104.76039,DEN,Air traffic control miscommunication,Low
+UA595,2024-01-19 00:00:00,40.68833,-73.96368,JFK,Brake temperature warning,Low
+UA671,2024-04-05 00:00:00,41.98162,-87.84404,ORD,Brake temperature warning,Low
+UA889,2024-02-28 00:00:00,41.96496,-88.06668,ORD,Fuel imbalance alert,Low
+UA424,2024-04-18 00:00:00,33.47594,-84.50437,ATL,Wind shear encountered,Low
+UA914,2023-10-22 00:00:00,39.69684,-104.74795,DEN,Air traffic control miscommunication,Low
+UA224,2023-02-24 00:00:00,32.86906,-96.97466,DFW,Engine oil pressure low,Low
+UA504,2023-11-17 00:00:00,41.83087,-87.87912,ORD,Electrical failure in cockpit,Low
+UA143,2024-02-07 00:00:00,42.11467,-88.03578,ORD,Cabin pressure fluctuation,Low
+AS552,2023-12-03 00:00:00,39.92389,-104.63159,DEN,Air traffic control miscommunication,Low
+UA319,2024-03-31 00:00:00,40.84652,-73.69628,JFK,Engine oil pressure low,Low
+UA675,2023-06-27 00:00:00,39.94044,-104.61626,DEN,Air traffic control miscommunication,Medium
+DL211,2023-01-22 00:00:00,32.79618,-97.02123,DFW,Tyre blowout during landing,High
+WN348,2023-09-21 00:00:00,33.93904,-118.58541,LAX,In-flight turbulence incident,Low
+WN753,2023-12-04 00:00:00,40.69692,-73.69688,JFK,Bird strike during climb,Low
+UA523,2023-02-18 00:00:00,41.91598,-87.90336,ORD,Cabin depressurization,Low
+UA797,2023-10-21 00:00:00,40.66027,-73.68794,JFK,Engine vibration reported during takeoff,Low
+UA261,2024-01-25 00:00:00,33.71921,-84.51481,ATL,Cabin depressurization,Low
+UA766,2023-05-19 00:00:00,40.62436,-73.76314,JFK,Runway incursion reported,Low
+AS392,2023-06-11 00:00:00,39.95884,-104.73857,DEN,Bird strike during climb,Medium
+UA767,2023-05-21 00:00:00,32.70894,-97.15691,DFW,Brake temperature warning,High
+UA856,2023-06-28 00:00:00,39.88264,-104.73048,DEN,Bird strike during climb,Low
+DL527,2024-02-21 00:00:00,40.55706,-73.73705,JFK,Bird strike during climb,Low
+UA906,2023-08-23 00:00:00,33.65585,-84.42126,ATL,Hydraulic system warning,Medium
+UA997,2023-09-30 00:00:00,33.98137,-118.39272,LAX,Engine vibration reported during takeoff,Low
+UA681,2023-12-06 00:00:00,32.95848,-96.91761,DFW,Landing gear warning light,Low
+AS391,2023-04-11 00:00:00,33.39418,-84.43112,ATL,Engine oil pressure low,Medium
+UA605,2023-12-21 00:00:00,40.49715,-73.79905,JFK,In-flight turbulence incident,Low
+UA379,2023-08-24 00:00:00,40.66329,-73.91071,JFK,Landing gear warning light,Low
+AS266,2024-01-21 00:00:00,39.91832,-104.78608,DEN,Evacuation slide deployed in-flight,Low
+UA835,2024-03-15 00:00:00,40.75624,-73.72079,JFK,Engine vibration reported during takeoff,Medium
+AS909,2023-08-25 00:00:00,41.9044,-87.9467,ORD,Tyre blowout during landing,Low
+WN279,2023-10-01 00:00:00,32.91073,-97.07199,DFW,Ice accumulation warning,Low
+UA627,2023-03-06 00:00:00,41.94574,-87.84458,ORD,Cabin pressure fluctuation,Low
+UA785,2023-11-09 00:00:00,33.99304,-118.34953,LAX,Hydraulic system warning,Low
+DL588,2023-10-30 00:00:00,41.82607,-88.01828,ORD,Brake temperature warning,Low
+AA367,2023-12-22 00:00:00,33.55079,-84.30857,ATL,Brake temperature warning,High
+UA871,2024-01-07 00:00:00,41.97667,-87.93119,ORD,Autopilot disengagement,High
+UA696,2023-07-07 00:00:00,39.99729,-104.72729,DEN,Tyre blowout during landing,Low
+AA367,2023-09-29 00:00:00,39.86818,-104.51744,DEN,Wind shear encountered,High
+WN163,2023-10-10 00:00:00,39.77979,-104.65862,DEN,Landing gear warning light,Low
+UA414,2023-08-21 00:00:00,40.6059,-73.83546,JFK,Ice accumulation warning,Low
+UA820,2023-06-02 00:00:00,41.98879,-87.75,ORD,Landing gear warning light,Low
+UA476,2023-05-06 00:00:00,33.07401,-96.85424,DFW,Brake temperature warning,Low
+WN236,2024-04-05 00:00:00,33.70372,-84.3604,ATL,Electrical failure in cockpit,Low
+UA865,2023-08-02 00:00:00,32.92811,-97.02301,DFW,Wind shear encountered,Low
+UA818,2023-07-24 00:00:00,32.87931,-96.87185,DFW,Cabin depressurization,Low
+UA921,2023-03-31 00:00:00,40.06874,-104.6289,DEN,Fuel imbalance alert,Low
+WN796,2023-10-15 00:00:00,32.87633,-97.103,DFW,Cabin pressure fluctuation,Low
+UA557,2023-07-18 00:00:00,32.93078,-97.13742,DFW,Wind shear encountered,Medium
+UA677,2023-10-28 00:00:00,34.03194,-118.40244,LAX,Bird strike during climb,Low
+UA617,2024-04-03 00:00:00,40.56021,-73.90386,JFK,Tyre blowout during landing,High
+UA253,2023-08-04 00:00:00,40.6714,-73.6036,JFK,Autopilot disengagement,Low
+UA552,2023-06-23 00:00:00,33.83269,-118.42408,LAX,Fuel imbalance alert,High
+UA600,2024-02-15 00:00:00,33.8717,-118.28328,LAX,In-flight turbulence incident,High
+UA928,2023-02-15 00:00:00,33.9226,-118.44424,LAX,Evacuation slide deployed in-flight,Medium
+DL625,2023-07-29 00:00:00,33.50594,-84.40893,ATL,Evacuation slide deployed in-flight,Low
+UA159,2023-01-03 00:00:00,32.87683,-97.16121,DFW,Evacuation slide deployed in-flight,Low
+UA840,2023-08-23 00:00:00,33.85773,-118.36822,LAX,Ice accumulation warning,High
+UA936,2023-02-19 00:00:00,33.89868,-118.34964,LAX,Fuel imbalance alert,High
+UA174,2023-09-29 00:00:00,33.93866,-118.18067,LAX,Cargo door warning,Low
+AS817,2023-07-06 00:00:00,33.9464,-118.37532,LAX,Engine oil pressure low,Low
+AA170,2023-03-30 00:00:00,33.55446,-84.2964,ATL,Bird strike during climb,Low
+UA518,2023-10-26 00:00:00,40.68389,-73.77619,JFK,Electrical failure in cockpit,Medium
+UA483,2023-05-21 00:00:00,33.67747,-84.37522,ATL,Evacuation slide deployed in-flight,Low
+UA484,2023-04-04 00:00:00,34.08085,-118.29097,LAX,Engine oil pressure low,Low
+DL769,2023-03-29 00:00:00,42.03483,-87.86317,ORD,Landing gear warning light,Low
+DL650,2024-02-25 00:00:00,33.51166,-84.36765,ATL,In-flight turbulence incident,Low
+DL845,2023-11-18 00:00:00,40.78006,-73.77149,JFK,Engine vibration reported during takeoff,Low
+AA405,2023-06-04 00:00:00,33.63473,-84.47676,ATL,Engine oil pressure low,Low
+UA644,2023-01-10 00:00:00,33.98629,-84.57444,ATL,Brake temperature warning,Low
+WN571,2023-11-19 00:00:00,42.12056,-87.96494,ORD,Electrical failure in cockpit,High
+UA293,2023-04-23 00:00:00,39.68563,-104.71445,DEN,Landing gear warning light,Low
+AA928,2023-06-22 00:00:00,39.89675,-104.83016,DEN,Cargo door warning,Low
+UA884,2023-11-20 00:00:00,33.8612,-118.33389,LAX,Brake temperature warning,High
+WN168,2023-10-05 00:00:00,33.9009,-118.33987,LAX,Security threat reported onboard,High
+AA557,2023-07-16 00:00:00,32.94608,-96.86779,DFW,Bird strike during climb,Low
+WN858,2023-03-17 00:00:00,33.86109,-118.31271,LAX,Ice accumulation warning,Low
+UA339,2023-10-30 00:00:00,33.03893,-97.09147,DFW,Fuel imbalance alert,Medium
+AA243,2023-03-25 00:00:00,32.75178,-97.03921,DFW,Runway incursion reported,Low
+WN935,2023-02-10 00:00:00,39.93071,-104.8347,DEN,Tyre blowout during landing,Low
+AS691,2023-11-20 00:00:00,32.96462,-97.07454,DFW,Autopilot disengagement,Low
+WN409,2024-01-02 00:00:00,40.68497,-73.73767,JFK,In-flight turbulence incident,Low
+WN523,2023-01-24 00:00:00,42.08445,-87.95294,ORD,Air traffic control miscommunication,Low
+AA670,2024-03-08 00:00:00,32.71904,-97.00603,DFW,Hydraulic system warning,Low
+UA669,2023-03-10 00:00:00,33.732,-84.64886,ATL,Bird strike during climb,Low
+AS758,2023-09-06 00:00:00,39.83875,-104.72743,DEN,Ice accumulation warning,Medium
+UA426,2023-06-17 00:00:00,39.78295,-104.77452,DEN,Cargo door warning,Low
+UA252,2023-01-03 00:00:00,41.91922,-88.00148,ORD,Ice accumulation warning,Medium
+DL872,2024-02-24 00:00:00,32.96353,-96.99174,DFW,Cabin depressurization,Low
+WN969,2023-11-02 00:00:00,40.55591,-73.87045,JFK,Runway incursion reported,Low
+DL925,2024-01-14 00:00:00,33.70724,-84.50321,ATL,Bird strike during climb,Low
+UA522,2024-03-31 00:00:00,33.57686,-84.40524,ATL,Engine oil pressure low,Low
+UA237,2023-07-21 00:00:00,33.46186,-84.41479,ATL,Brake temperature warning,Low
+UA308,2023-08-02 00:00:00,42.04365,-88.05521,ORD,Cabin pressure fluctuation,Low
+UA967,2023-06-02 00:00:00,41.9958,-88.01083,ORD,Cabin pressure fluctuation,Medium
+UA841,2023-07-10 00:00:00,40.41038,-73.76239,JFK,Bird strike during climb,High
+UA486,2023-03-29 00:00:00,39.82062,-104.71003,DEN,Security threat reported onboard,Low
+UA140,2023-07-17 00:00:00,33.96461,-118.35873,LAX,Fuel imbalance alert,Medium
+UA841,2023-05-06 00:00:00,39.83561,-104.67899,DEN,Engine oil pressure low,Low
+WN590,2023-03-14 00:00:00,40.51139,-73.90032,JFK,Autopilot disengagement,High
+UA115,2023-01-03 00:00:00,40.67247,-73.82298,JFK,Fuel imbalance alert,Low
+UA864,2023-04-19 00:00:00,33.63614,-84.36123,ATL,Brake temperature warning,Low
+UA820,2023-09-28 00:00:00,40.39779,-73.76369,JFK,Ice accumulation warning,High
+WN665,2024-01-04 00:00:00,41.97257,-87.85942,ORD,Runway incursion reported,Low
+UA577,2023-11-11 00:00:00,33.08513,-97.03701,DFW,Wind shear encountered,Low
+UA367,2023-06-17 00:00:00,41.97931,-87.97093,ORD,In-flight turbulence incident,Medium
+UA577,2024-01-25 00:00:00,33.98365,-118.4388,LAX,Cabin depressurization,Medium
+AS308,2023-04-05 00:00:00,41.86689,-88.00611,ORD,Autopilot disengagement,Medium
+UA146,2024-01-06 00:00:00,32.8187,-97.03772,DFW,Brake temperature warning,Low
+DL116,2024-01-10 00:00:00,42.09979,-87.87877,ORD,Engine oil pressure low,High
+UA693,2023-07-29 00:00:00,39.78982,-104.72183,DEN,Cargo door warning,Low
+UA256,2023-01-12 00:00:00,40.54105,-73.88828,JFK,Autopilot disengagement,Low
+WN488,2024-02-05 00:00:00,32.88568,-96.9677,DFW,Brake temperature warning,Medium
+UA663,2023-03-10 00:00:00,39.80252,-104.84294,DEN,Autopilot disengagement,Low
+UA881,2023-07-16 00:00:00,33.65317,-84.43215,ATL,Cabin depressurization,Medium
+UA272,2024-01-26 00:00:00,39.73755,-104.6201,DEN,Wind shear encountered,Low
+DL243,2023-11-06 00:00:00,39.89855,-104.68901,DEN,Engine oil pressure low,High
+UA288,2024-01-27 00:00:00,32.90018,-97.11385,DFW,Bird strike during climb,Low
+UA134,2023-01-06 00:00:00,33.98042,-118.40463,LAX,Bird strike during climb,Low
+AA522,2023-03-23 00:00:00,40.57702,-73.60795,JFK,Brake temperature warning,Low
+UA824,2023-07-23 00:00:00,40.65867,-73.84823,JFK,Engine vibration reported during takeoff,Low
+WN617,2023-10-18 00:00:00,33.54451,-84.5285,ATL,Wind shear encountered,Low
+AA732,2023-01-22 00:00:00,39.88467,-104.77887,DEN,Security threat reported onboard,Low
+UA775,2023-08-18 00:00:00,33.62504,-84.50041,ATL,Engine vibration reported during takeoff,Low
+AA644,2024-02-07 00:00:00,33.04676,-96.91322,DFW,Cargo door warning,Low
+AA117,2023-10-17 00:00:00,32.80641,-96.89249,DFW,Air traffic control miscommunication,Low
+UA393,2023-03-14 00:00:00,34.02348,-118.25471,LAX,In-flight turbulence incident,Low
+UA925,2023-04-10 00:00:00,40.85683,-73.87586,JFK,Landing gear warning light,Low
+UA636,2024-03-10 00:00:00,40.61981,-73.75042,JFK,Brake temperature warning,Low
+WN734,2023-04-08 00:00:00,32.84656,-97.05216,DFW,Air traffic control miscommunication,Low
+AS373,2023-10-28 00:00:00,33.48359,-84.37667,ATL,Cabin pressure fluctuation,Low
+AS515,2024-01-20 00:00:00,33.70894,-84.51755,ATL,Tyre blowout during landing,Low
+WN813,2024-02-20 00:00:00,40.55486,-73.79219,JFK,Runway incursion reported,Medium
+UA769,2023-05-07 00:00:00,39.89113,-104.64241,DEN,Bird strike during climb,Medium
+UA515,2024-01-14 00:00:00,33.81166,-84.28995,ATL,Ice accumulation warning,Low
+UA587,2023-06-19 00:00:00,33.84583,-118.3435,LAX,Engine vibration reported during takeoff,Low
+DL184,2023-09-02 00:00:00,33.67262,-84.37131,ATL,Cargo door warning,Low
+AS679,2023-03-04 00:00:00,33.84429,-118.59624,LAX,In-flight turbulence incident,Low
+AA335,2023-06-10 00:00:00,40.58329,-73.75416,JFK,Tyre blowout during landing,High
+UA377,2023-05-18 00:00:00,33.91454,-118.31924,LAX,Cabin pressure fluctuation,Low
+UA656,2023-11-15 00:00:00,32.75686,-97.01732,DFW,Bird strike during climb,Low
+DL970,2023-11-17 00:00:00,42.07636,-87.98018,ORD,Engine vibration reported during takeoff,Low
+WN701,2024-01-25 00:00:00,40.58166,-73.67067,JFK,Ice accumulation warning,Medium
+UA406,2023-12-19 00:00:00,40.67168,-73.70594,JFK,Tyre blowout during landing,Medium
+WN680,2023-12-07 00:00:00,33.73663,-84.45181,ATL,Engine oil pressure low,Low
+AS493,2023-08-18 00:00:00,39.69456,-104.87575,DEN,Electrical failure in cockpit,Low
+UA612,2023-02-06 00:00:00,39.81646,-104.53254,DEN,Wind shear encountered,Low
+AA200,2023-05-19 00:00:00,33.50755,-84.38539,ATL,Brake temperature warning,Low
+UA448,2023-05-15 00:00:00,32.89552,-97.10697,DFW,Security threat reported onboard,High
+UA506,2023-07-26 00:00:00,42.07649,-88.00555,ORD,Engine vibration reported during takeoff,Low
+UA902,2023-05-01 00:00:00,33.56678,-84.47734,ATL,Cabin depressurization,Low
+WN464,2023-05-13 00:00:00,32.98251,-96.94222,DFW,Ice accumulation warning,Medium
+UA290,2023-03-24 00:00:00,39.82297,-104.73342,DEN,Tyre blowout during landing,Low
+UA187,2024-03-19 00:00:00,33.08386,-97.23657,DFW,Runway incursion reported,Low
+WN830,2023-03-02 00:00:00,34.0465,-118.45518,LAX,Cabin pressure fluctuation,Medium
+UA257,2023-11-07 00:00:00,33.69827,-84.48462,ATL,Electrical failure in cockpit,Medium
+UA424,2023-04-20 00:00:00,41.98719,-88.12683,ORD,Landing gear warning light,High
+UA105,2023-04-07 00:00:00,42.04239,-87.93357,ORD,Evacuation slide deployed in-flight,Low
+AS879,2023-04-19 00:00:00,41.83853,-87.90347,ORD,Landing gear warning light,Medium
+DL189,2024-03-01 00:00:00,40.60888,-73.69781,JFK,Cargo door warning,Low
+UA670,2024-02-18 00:00:00,33.10255,-97.15109,DFW,In-flight turbulence incident,Low
+UA205,2023-06-14 00:00:00,34.10107,-118.47239,LAX,Cabin pressure fluctuation,Low
+AS667,2023-04-22 00:00:00,33.95281,-118.23404,LAX,Security threat reported onboard,Low
+UA903,2023-10-16 00:00:00,41.87977,-88.08317,ORD,Ice accumulation warning,Medium
+AA398,2024-04-06 00:00:00,33.66805,-84.51624,ATL,Ice accumulation warning,Low
+UA842,2023-06-11 00:00:00,33.13957,-96.9947,DFW,Brake temperature warning,Low
+UA633,2023-09-04 00:00:00,40.55976,-73.86801,JFK,Ice accumulation warning,Low
+DL242,2024-01-17 00:00:00,41.98986,-87.8604,ORD,Runway incursion reported,Low
+UA604,2023-06-24 00:00:00,40.69494,-73.74144,JFK,Cabin pressure fluctuation,Low
+DL545,2024-02-28 00:00:00,41.89177,-87.85144,ORD,Cargo door warning,Low
+UA595,2023-05-21 00:00:00,33.97438,-118.31607,LAX,Wind shear encountered,Low
+UA352,2023-07-24 00:00:00,39.85188,-104.47906,DEN,Cabin depressurization,High
+UA731,2023-10-22 00:00:00,40.68465,-73.85871,JFK,Evacuation slide deployed in-flight,Low
+UA238,2023-11-21 00:00:00,42.05351,-87.79402,ORD,Engine vibration reported during takeoff,Medium
+UA440,2023-04-13 00:00:00,32.86693,-97.04302,DFW,Ice accumulation warning,Medium
+AS550,2023-01-25 00:00:00,41.88794,-87.73396,ORD,Cargo door warning,Medium
+UA239,2024-02-20 00:00:00,42.04214,-87.86916,ORD,Autopilot disengagement,Medium
+UA811,2023-03-14 00:00:00,40.76575,-73.7649,JFK,Cabin depressurization,Medium
+AS281,2023-12-02 00:00:00,33.60216,-84.45559,ATL,Autopilot disengagement,Low
+UA852,2023-07-18 00:00:00,39.72418,-104.6925,DEN,Cabin depressurization,Medium
+UA900,2024-03-04 00:00:00,40.60871,-73.77915,JFK,Autopilot disengagement,Low
+UA387,2023-02-26 00:00:00,33.60913,-84.33403,ATL,Wind shear encountered,Low
+UA677,2023-10-19 00:00:00,40.65676,-73.6601,JFK,Tyre blowout during landing,High
+UA284,2023-03-23 00:00:00,39.97611,-104.72139,DEN,Engine oil pressure low,Low
+AA844,2024-03-23 00:00:00,33.56162,-84.43746,ATL,Fuel imbalance alert,Medium
+UA916,2023-02-09 00:00:00,41.95992,-87.96666,ORD,Cabin pressure fluctuation,Low
+UA789,2024-01-07 00:00:00,33.62365,-84.46763,ATL,Electrical failure in cockpit,High
+UA347,2024-02-18 00:00:00,42.04375,-88.01867,ORD,Electrical failure in cockpit,Low
+UA908,2023-12-14 00:00:00,33.56039,-84.40321,ATL,Cabin pressure fluctuation,Low
+UA712,2023-02-17 00:00:00,33.77636,-84.38664,ATL,Tyre blowout during landing,Medium
+UA647,2023-10-22 00:00:00,33.00953,-96.96067,DFW,Cargo door warning,Low
+UA137,2023-07-30 00:00:00,42.11894,-87.83511,ORD,Engine oil pressure low,Low
+UA753,2023-09-22 00:00:00,33.82668,-118.56948,LAX,Landing gear warning light,Low
+WN773,2024-02-04 00:00:00,39.91024,-104.52803,DEN,Wind shear encountered,Low
+DL762,2023-10-19 00:00:00,32.91063,-96.92178,DFW,Bird strike during climb,Medium
+UA760,2023-11-28 00:00:00,40.03703,-104.694,DEN,Ice accumulation warning,Low
+AS915,2023-01-08 00:00:00,33.51117,-84.39279,ATL,Landing gear warning light,Low
+AA200,2024-01-21 00:00:00,42.06366,-87.92057,ORD,Brake temperature warning,Low
+UA864,2023-07-26 00:00:00,33.10464,-96.89587,DFW,Engine oil pressure low,Low
+UA804,2024-01-06 00:00:00,32.94798,-96.93494,DFW,Brake temperature warning,Medium
+UA483,2024-01-19 00:00:00,33.79977,-84.18612,ATL,Evacuation slide deployed in-flight,Low
+UA807,2024-03-26 00:00:00,32.7547,-96.92749,DFW,Electrical failure in cockpit,Low
+AS125,2023-06-05 00:00:00,33.46021,-84.45748,ATL,Landing gear warning light,Low
+UA525,2024-01-26 00:00:00,34.02642,-118.53175,LAX,Landing gear warning light,Medium
+DL456,2024-01-23 00:00:00,42.01359,-87.90769,ORD,Autopilot disengagement,Medium
+UA903,2023-12-23 00:00:00,40.57715,-73.7326,JFK,In-flight turbulence incident,Low
+UA456,2023-06-14 00:00:00,33.60344,-84.37895,ATL,Landing gear warning light,Low
+UA839,2023-04-30 00:00:00,39.89338,-104.62515,DEN,Evacuation slide deployed in-flight,Low
+AS168,2024-01-01 00:00:00,41.94566,-87.83171,ORD,Bird strike during climb,High
+UA123,2023-04-14 00:00:00,41.91165,-87.87738,ORD,Landing gear warning light,Medium
+DL858,2023-07-01 00:00:00,40.88625,-73.89573,JFK,In-flight turbulence incident,Low
+DL665,2023-09-26 00:00:00,40.76278,-73.83786,JFK,Autopilot disengagement,Low
+UA536,2023-10-31 00:00:00,33.53353,-84.31676,ATL,Brake temperature warning,Low
+UA744,2023-09-13 00:00:00,40.74844,-73.5761,JFK,Hydraulic system warning,Low
+UA505,2023-12-07 00:00:00,33.77636,-118.556,LAX,Security threat reported onboard,Low
+WN560,2023-01-29 00:00:00,32.86176,-96.88166,DFW,Cargo door warning,Medium
+UA104,2024-03-02 00:00:00,40.02125,-104.48481,DEN,Fuel imbalance alert,Medium
+WN385,2023-05-19 00:00:00,39.83545,-104.61615,DEN,Cabin pressure fluctuation,Low
+UA204,2023-11-11 00:00:00,32.64519,-97.17378,DFW,Hydraulic system warning,Low
+AS433,2023-09-03 00:00:00,40.70385,-73.68958,JFK,Evacuation slide deployed in-flight,Low
+UA368,2023-07-22 00:00:00,39.94992,-104.70769,DEN,Cabin depressurization,Low
+UA754,2023-03-16 00:00:00,41.97874,-88.03258,ORD,Security threat reported onboard,Low
+UA725,2023-12-11 00:00:00,33.50553,-84.34134,ATL,Tyre blowout during landing,Low
+UA456,2023-03-05 00:00:00,41.9431,-87.77707,ORD,Evacuation slide deployed in-flight,Low
+UA276,2024-02-10 00:00:00,40.05481,-104.7253,DEN,Runway incursion reported,Medium
+UA704,2023-05-22 00:00:00,33.95851,-118.44857,LAX,Electrical failure in cockpit,Low
+AS220,2023-02-28 00:00:00,40.72595,-73.72812,JFK,Runway incursion reported,Medium
+UA287,2023-08-10 00:00:00,42.00292,-87.83313,ORD,Electrical failure in cockpit,High
+UA497,2023-01-13 00:00:00,33.66083,-84.5432,ATL,Security threat reported onboard,Low
+DL688,2023-10-19 00:00:00,33.65385,-84.45814,ATL,Cargo door warning,Low
+DL598,2023-10-26 00:00:00,39.77536,-104.6871,DEN,Engine oil pressure low,Low
+DL668,2023-04-26 00:00:00,40.72231,-73.88589,JFK,Cabin depressurization,Low
+UA243,2024-04-08 00:00:00,40.70425,-73.85853,JFK,Autopilot disengagement,Low
+UA734,2023-03-14 00:00:00,33.96692,-118.32647,LAX,Wind shear encountered,High
+AA596,2023-09-21 00:00:00,40.60589,-73.86449,JFK,Fuel imbalance alert,Low
+UA675,2023-09-25 00:00:00,32.93121,-97.00715,DFW,Cabin depressurization,High
+UA801,2024-02-07 00:00:00,33.78015,-84.40239,ATL,Cargo door warning,Low
+UA600,2023-02-27 00:00:00,40.62362,-73.93296,JFK,Cabin pressure fluctuation,Low
+UA131,2024-01-29 00:00:00,40.63014,-73.8552,JFK,Runway incursion reported,Low
+AA381,2023-10-20 00:00:00,40.47108,-73.82438,JFK,Engine oil pressure low,Medium
+UA272,2023-04-20 00:00:00,33.51102,-84.36955,ATL,Tyre blowout during landing,Low
+UA662,2023-05-18 00:00:00,32.8199,-97.16761,DFW,Landing gear warning light,Low
+UA216,2023-02-05 00:00:00,42.0381,-87.96064,ORD,Engine oil pressure low,Low
+AS655,2024-03-23 00:00:00,33.89272,-118.43634,LAX,Evacuation slide deployed in-flight,Medium
+UA323,2023-01-11 00:00:00,33.7719,-84.39988,ATL,Landing gear warning light,Low
+WN404,2023-09-23 00:00:00,33.82503,-118.4067,LAX,Evacuation slide deployed in-flight,Low
+UA456,2023-04-22 00:00:00,33.95324,-118.4186,LAX,Evacuation slide deployed in-flight,Low
+UA894,2023-08-11 00:00:00,40.73284,-73.83305,JFK,Fuel imbalance alert,Low
+UA805,2023-07-03 00:00:00,41.86403,-87.95535,ORD,Security threat reported onboard,Low
+UA269,2023-01-18 00:00:00,33.00985,-96.96983,DFW,Electrical failure in cockpit,Medium
+WN933,2023-09-28 00:00:00,40.79298,-73.74232,JFK,Bird strike during climb,High
+UA459,2023-08-06 00:00:00,32.89201,-97.17852,DFW,Air traffic control miscommunication,Medium
+UA651,2024-03-22 00:00:00,40.82557,-73.7194,JFK,Autopilot disengagement,Low
+UA396,2023-09-06 00:00:00,32.86959,-96.93256,DFW,Air traffic control miscommunication,Low
+UA795,2023-07-15 00:00:00,33.98499,-118.67118,LAX,Electrical failure in cockpit,High
+UA160,2023-12-31 00:00:00,42.16901,-87.7423,ORD,Electrical failure in cockpit,Low
+DL355,2023-04-05 00:00:00,40.68069,-73.78624,JFK,Autopilot disengagement,High
+WN879,2023-11-29 00:00:00,39.76687,-104.63199,DEN,Ice accumulation warning,Low
+UA245,2023-08-08 00:00:00,32.92016,-97.05998,DFW,Air traffic control miscommunication,Low
+UA484,2023-09-03 00:00:00,33.58187,-84.34477,ATL,Cabin pressure fluctuation,High
+UA512,2023-07-19 00:00:00,32.69252,-96.94477,DFW,Air traffic control miscommunication,Medium
+AS565,2023-02-01 00:00:00,33.58347,-84.30859,ATL,Autopilot disengagement,Low
+UA102,2023-06-26 00:00:00,39.90806,-104.50937,DEN,Cabin pressure fluctuation,Low
+UA750,2023-11-04 00:00:00,39.74587,-104.60406,DEN,Wind shear encountered,Low
+UA914,2023-09-07 00:00:00,33.14986,-96.97556,DFW,Ice accumulation warning,Medium
+WN539,2023-02-14 00:00:00,40.67092,-73.74058,JFK,Cabin depressurization,Low
+UA430,2023-07-24 00:00:00,41.90186,-87.99254,ORD,Autopilot disengagement,Low
+UA691,2024-04-05 00:00:00,40.63819,-73.86907,JFK,Tyre blowout during landing,High
+UA907,2023-04-19 00:00:00,41.99281,-87.84743,ORD,Bird strike during climb,High
+AA201,2023-04-21 00:00:00,39.84914,-104.5832,DEN,Evacuation slide deployed in-flight,Low
+AA227,2024-04-17 00:00:00,40.72775,-73.62621,JFK,Evacuation slide deployed in-flight,Medium
+UA100,2024-02-05 00:00:00,33.67267,-84.41123,ATL,Fuel imbalance alert,Low
+DL765,2023-08-26 00:00:00,41.9401,-87.8666,ORD,Hydraulic system warning,Low
+UA195,2023-05-29 00:00:00,39.86924,-104.71295,DEN,Wind shear encountered,Low
+UA184,2023-05-23 00:00:00,41.98073,-87.81623,ORD,Hydraulic system warning,Low
+AA505,2024-04-15 00:00:00,39.71354,-104.59091,DEN,Runway incursion reported,Medium
+WN539,2023-05-17 00:00:00,39.82736,-104.64347,DEN,Cabin pressure fluctuation,Low
+UA101,2023-04-08 00:00:00,40.57654,-73.89045,JFK,Cabin depressurization,Low
+UA235,2023-08-25 00:00:00,32.92182,-97.12735,DFW,Brake temperature warning,Low
+UA796,2023-07-09 00:00:00,33.72481,-84.2725,ATL,Engine vibration reported during takeoff,Low
+AA812,2024-01-06 00:00:00,41.92507,-87.86905,ORD,Landing gear warning light,Medium
+UA810,2024-02-20 00:00:00,40.75407,-73.76024,JFK,Cabin depressurization,Medium
+UA334,2023-02-25 00:00:00,33.5727,-84.44472,ATL,Cabin pressure fluctuation,Low
+UA205,2023-07-11 00:00:00,41.8952,-87.91883,ORD,Wind shear encountered,Low
+UA240,2024-01-06 00:00:00,33.61723,-84.43452,ATL,Electrical failure in cockpit,High
+DL170,2023-03-04 00:00:00,32.9089,-97.07812,DFW,Tyre blowout during landing,Low
+AA724,2023-01-06 00:00:00,39.73887,-104.55751,DEN,Hydraulic system warning,Medium
+UA459,2023-04-29 00:00:00,39.8722,-104.41885,DEN,Fuel imbalance alert,Low
+DL521,2023-06-26 00:00:00,32.9845,-96.89073,DFW,Evacuation slide deployed in-flight,High
+WN188,2023-07-05 00:00:00,33.8711,-118.45223,LAX,Electrical failure in cockpit,Low
+UA703,2023-10-11 00:00:00,39.77408,-104.79734,DEN,Ice accumulation warning,Medium
+AS539,2024-03-22 00:00:00,41.83976,-87.92663,ORD,Electrical failure in cockpit,Low
+WN383,2024-01-02 00:00:00,39.88851,-104.78697,DEN,Cabin pressure fluctuation,Low
+WN666,2023-05-22 00:00:00,32.9818,-97.04852,DFW,Security threat reported onboard,Low
+UA391,2024-02-12 00:00:00,40.06366,-104.70943,DEN,Engine vibration reported during takeoff,Medium
+UA310,2024-03-23 00:00:00,32.8173,-97.09397,DFW,Security threat reported onboard,Low
+UA293,2023-07-14 00:00:00,39.76121,-104.49746,DEN,Ice accumulation warning,Low
+UA761,2023-12-17 00:00:00,34.06871,-118.47921,LAX,Brake temperature warning,Low
+UA495,2023-06-25 00:00:00,33.83116,-118.3161,LAX,Brake temperature warning,Low
+UA753,2023-06-07 00:00:00,32.91143,-96.97636,DFW,Cabin pressure fluctuation,Medium
+UA112,2023-04-26 00:00:00,42.01385,-87.96194,ORD,Autopilot disengagement,Low
+DL496,2023-10-21 00:00:00,32.92884,-97.02507,DFW,Cargo door warning,Low
+AS659,2024-04-07 00:00:00,39.7352,-104.69603,DEN,Hydraulic system warning,Low
+UA888,2024-01-24 00:00:00,33.90049,-118.42159,LAX,Engine vibration reported during takeoff,Low
+UA169,2024-04-15 00:00:00,33.99595,-118.38852,LAX,Air traffic control miscommunication,Medium
+WN140,2023-08-02 00:00:00,34.13124,-118.38652,LAX,Ice accumulation warning,Low
+UA393,2023-05-18 00:00:00,39.90277,-104.62156,DEN,In-flight turbulence incident,Low
+UA533,2023-08-25 00:00:00,39.8352,-104.73625,DEN,Ice accumulation warning,Low
+UA755,2023-12-24 00:00:00,33.04854,-96.97779,DFW,Engine oil pressure low,Low
+UA256,2023-01-30 00:00:00,41.94223,-87.85716,ORD,Cabin pressure fluctuation,Medium
+UA180,2023-07-24 00:00:00,32.72247,-96.97978,DFW,Fuel imbalance alert,High
+DL649,2024-03-13 00:00:00,42.11541,-87.94053,ORD,Ice accumulation warning,Low
+UA749,2023-07-05 00:00:00,39.66532,-104.75824,DEN,Cabin pressure fluctuation,Low
+UA815,2023-02-21 00:00:00,33.63903,-84.47486,ATL,Brake temperature warning,Low
+AA350,2023-04-11 00:00:00,33.79996,-118.34318,LAX,Cargo door warning,Low
+UA564,2023-07-01 00:00:00,32.92422,-96.99368,DFW,Security threat reported onboard,Low
+AA416,2023-04-09 00:00:00,39.72738,-104.81191,DEN,Hydraulic system warning,Medium
+UA112,2023-01-17 00:00:00,39.73767,-104.65247,DEN,Electrical failure in cockpit,Medium
+AA267,2023-03-19 00:00:00,33.64999,-84.34455,ATL,Wind shear encountered,Low
+UA629,2023-03-13 00:00:00,39.90454,-104.62603,DEN,Air traffic control miscommunication,Low
+DL480,2023-08-29 00:00:00,40.5543,-73.84406,JFK,Air traffic control miscommunication,Low
+UA889,2023-07-16 00:00:00,33.96064,-118.36358,LAX,Autopilot disengagement,Low
+UA378,2023-01-26 00:00:00,32.87932,-96.99717,DFW,Cabin pressure fluctuation,Low
+UA829,2023-02-28 00:00:00,32.91296,-97.03267,DFW,Cabin pressure fluctuation,Low
+UA566,2023-01-14 00:00:00,32.8529,-96.98303,DFW,Wind shear encountered,Low
+AA611,2024-02-03 00:00:00,32.95792,-97.0223,DFW,Hydraulic system warning,Low
+AS261,2023-12-03 00:00:00,41.8562,-87.83733,ORD,Landing gear warning light,Low
+UA790,2023-05-02 00:00:00,39.89643,-104.62944,DEN,Landing gear warning light,Low
+WN858,2023-05-25 00:00:00,33.0565,-97.07367,DFW,Engine vibration reported during takeoff,Low
+AA979,2023-05-08 00:00:00,33.88605,-118.38806,LAX,Brake temperature warning,Low
+AA583,2023-11-20 00:00:00,41.93289,-87.89943,ORD,Ice accumulation warning,High
+DL283,2024-01-23 00:00:00,33.82161,-118.43773,LAX,Engine oil pressure low,Medium
+UA329,2023-10-14 00:00:00,41.95012,-87.96805,ORD,Brake temperature warning,High
+UA837,2023-06-08 00:00:00,42.00113,-87.83563,ORD,Air traffic control miscommunication,Low
+UA685,2023-10-13 00:00:00,41.99883,-87.74171,ORD,Landing gear warning light,Low
+UA789,2023-08-09 00:00:00,33.82498,-118.62008,LAX,Hydraulic system warning,Medium
+WN923,2023-05-31 00:00:00,32.91209,-96.91252,DFW,Bird strike during climb,Medium
+UA170,2023-04-18 00:00:00,33.70992,-84.44944,ATL,Runway incursion reported,Low
+UA435,2023-05-26 00:00:00,33.97216,-118.56977,LAX,Engine oil pressure low,Low
+UA108,2023-07-21 00:00:00,41.7968,-87.82893,ORD,Fuel imbalance alert,Low
+UA677,2023-11-19 00:00:00,42.03241,-87.82185,ORD,Security threat reported onboard,Low
+WN575,2024-03-22 00:00:00,42.12936,-87.97412,ORD,Tyre blowout during landing,Low
+UA891,2023-08-02 00:00:00,40.61744,-73.64944,JFK,Engine oil pressure low,Low
+WN254,2023-05-30 00:00:00,33.87091,-118.32294,LAX,Cargo door warning,High
+AA338,2023-01-03 00:00:00,32.66312,-97.17467,DFW,Wind shear encountered,Low
+AA443,2023-11-25 00:00:00,33.98595,-118.52369,LAX,Ice accumulation warning,Low
+UA206,2023-02-16 00:00:00,40.72653,-73.77873,JFK,In-flight turbulence incident,Medium
+WN529,2023-08-25 00:00:00,33.46183,-84.22999,ATL,Bird strike during climb,Medium
+DL828,2023-11-10 00:00:00,42.08693,-87.96154,ORD,Cabin pressure fluctuation,Low
+AA337,2023-12-21 00:00:00,32.78363,-97.00356,DFW,Cargo door warning,Low
+AS569,2023-01-11 00:00:00,39.74825,-104.76169,DEN,Cabin pressure fluctuation,Low
+UA197,2023-09-15 00:00:00,32.88296,-96.96403,DFW,Electrical failure in cockpit,Low
+UA176,2023-11-27 00:00:00,32.88107,-97.04058,DFW,Tyre blowout during landing,Medium
+AA545,2023-07-06 00:00:00,39.83786,-104.66909,DEN,Electrical failure in cockpit,Medium
+WN398,2024-03-06 00:00:00,42.06093,-88.00989,ORD,Autopilot disengagement,Low
+UA817,2024-01-23 00:00:00,39.86023,-104.6279,DEN,Autopilot disengagement,Low
+AS563,2023-10-10 00:00:00,42.13503,-87.8638,ORD,Brake temperature warning,Low
+UA307,2024-01-10 00:00:00,40.57828,-73.77111,JFK,Tyre blowout during landing,Low
+UA259,2023-09-11 00:00:00,33.89474,-118.4652,LAX,Hydraulic system warning,Low
+UA577,2023-10-19 00:00:00,41.96753,-87.99456,ORD,Cargo door warning,Low
+UA648,2023-03-17 00:00:00,41.87784,-88.00219,ORD,Fuel imbalance alert,Low
+UA415,2023-03-12 00:00:00,33.63561,-84.49385,ATL,Air traffic control miscommunication,Low
+UA192,2023-07-14 00:00:00,40.83505,-73.7937,JFK,Runway incursion reported,Low
+UA141,2024-04-05 00:00:00,40.77416,-73.74678,JFK,Autopilot disengagement,Medium
+DL193,2023-10-12 00:00:00,39.81019,-104.74166,DEN,Brake temperature warning,Low
+AS505,2024-02-10 00:00:00,32.88908,-97.04691,DFW,Bird strike during climb,Medium
+UA366,2023-01-30 00:00:00,40.79808,-73.86405,JFK,Engine vibration reported during takeoff,Low
+UA975,2023-11-14 00:00:00,33.51029,-84.53744,ATL,Engine oil pressure low,Low
+UA355,2024-02-07 00:00:00,34.02784,-118.37445,LAX,Evacuation slide deployed in-flight,Medium
+UA923,2023-05-28 00:00:00,40.73914,-73.72589,JFK,Landing gear warning light,Low
+AA163,2024-02-08 00:00:00,40.68808,-73.56997,JFK,Electrical failure in cockpit,Low
+WN943,2023-11-20 00:00:00,33.59903,-84.44873,ATL,Wind shear encountered,High
+UA696,2023-04-16 00:00:00,32.79352,-97.03675,DFW,Air traffic control miscommunication,Low
+UA122,2023-06-08 00:00:00,34.0309,-118.22554,LAX,Fuel imbalance alert,Medium
+UA928,2023-12-05 00:00:00,40.47283,-73.98457,JFK,Cabin pressure fluctuation,Low
+AS225,2024-04-16 00:00:00,34.05606,-118.38753,LAX,Evacuation slide deployed in-flight,Low
