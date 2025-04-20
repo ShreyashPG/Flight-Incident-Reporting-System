@@ -6,6 +6,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const ExcelJS = require('exceljs');
 const cookieParser = require('cookie-parser');
+const axios = require('axios'); // Add axios
 
 dotenv.config();
 
@@ -325,6 +326,22 @@ app.get('/api/incidents/export', authMiddleware, async (req, res) => {
 
     await workbook.xlsx.write(res);
     res.end();
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// New endpoint for risk prediction
+app.post('/api/predict_risk', authMiddleware, async (req, res) => {
+  if (!['admin', 'auditor'].includes(req.user.role)) return res.status(403).json({ error: 'Access denied' });
+  try {
+    const { flight_number, route, incident_type } = req.body;
+    const response = await axios.post('http://localhost:5001/predict_risk', {
+      flight_number,
+      route,
+      incident_type
+    });
+    res.json(response.data);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
