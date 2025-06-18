@@ -9,7 +9,7 @@ import os
 app = FastAPI()
 
 # MongoDB Connection
-client = MongoClient("mongodb://localhost:27017")
+client = MongoClient("mongodb+srv://shreyasghanekar35:Datta%4023Nagar@flightincidents.eo2dibi.mongodb.net")
 db = client["flight_incidents"]
 incidents_collection = db["incidents"]
 

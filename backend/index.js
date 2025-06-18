@@ -11,7 +11,9 @@ const axios = require('axios'); // Add axios
 dotenv.config();
 
 const app = express();
-app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
+app.use(cors());
+// app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
+
 app.use(express.json());
 app.use(cookieParser());
 
@@ -336,7 +338,7 @@ app.post('/api/predict_risk', authMiddleware, async (req, res) => {
   if (!['admin', 'auditor'].includes(req.user.role)) return res.status(403).json({ error: 'Access denied' });
   try {
     const { flight_number, route, incident_type } = req.body;
-    const response = await axios.post('http://localhost:5001/predict_risk', {
+    const response = await axios.post('https://localhost:5000/predict_risk', {
       flight_number,
       route,
       incident_type

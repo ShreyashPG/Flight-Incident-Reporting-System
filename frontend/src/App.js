@@ -20,19 +20,23 @@ const Dashboard = () => {
     severity: 'Low',
   });
   const [comment, setComment] = useState('');
-  const [editFields, setEditFields] = useState({}); // For inline editing
+  const [editFields, setEditFields] = useState({});
+  // Risk prediction state
+  const [riskForm, setRiskForm] = useState({
+    flight_number: '',
+    route: '',
+    incident_type: 'Turbulence'
+  });
+  const [riskResult, setRiskResult] = useState(null);
 
   useEffect(() => {
-    // Fetch user info
     axios.get('http://localhost:5000/api/user', { withCredentials: true })
       .then(res => {
         setUser(res.data);
-        // Fetch incidents
         return axios.get('http://localhost:5000/api/incidents', { withCredentials: true });
       })
       .then(res => {
         setIncidents(res.data);
-        // Fetch users if admin
         if (user?.role === 'admin') {
           return axios.get('http://localhost:5000/api/users', { withCredentials: true });
         }
@@ -155,6 +159,19 @@ const Dashboard = () => {
     }
   };
 
+  const handleRiskPrediction = async (e) => {
+    e.preventDefault();
+    try {
+      const response = await axios.post('http://localhost:5000/api/predict_risk', riskForm, {
+        withCredentials: true,
+      });
+      setRiskResult(response.data);
+    } catch (error) {
+      console.error(error);
+      setRiskResult({ message: 'Prediction failed', risk: 0 });
+    }
+  };
+
   const handleLogout = async () => {
     try {
       await axios.post('http://localhost:5000/api/logout', {}, { withCredentials: true });
@@ -184,6 +201,54 @@ const Dashboard = () => {
             </button>
           </div>
         </div>
+
+        {/* Risk Prediction Form (Admin/Auditor only) */}
+        {['admin', 'auditor'].includes(user.role) && (
+          <div className="mb-12 p-6 bg-white rounded-lg shadow-lg">
+            <h2 className="text-2xl font-semibold text-gray-800 mb-6">Risk Forecast</h2>
+            <form onSubmit={handleRiskPrediction} className="space-y-4">
+              <input
+                type="text"
+                placeholder="Flight Number (e.g., AI123)"
+                value={riskForm.flight_number}
+                onChange={(e) => setRiskForm({ ...riskForm, flight_number: e.target.value })}
+                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                required
+              />
+              <input
+                type="text"
+                placeholder="Route (e.g., DEL-MUM)"
+                value={riskForm.route}
+                onChange={(e) => setRiskForm({ ...riskForm, route: e.target.value })}
+                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                required
+              />
+              <select
+                value={riskForm.incident_type}
+                onChange={(e) => setRiskForm({ ...riskForm, incident_type: e.target.value })}
+                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+              >
+                <option value="Turbulence">Turbulence</option>
+                <option value="Engine Failure">Engine Failure</option>
+                <option value="Human Error">Human Error</option>
+                <option value="Weather Issue">Weather Issue</option>
+                <option value="Other">Other</option>
+              </select>
+              <button
+                type="submit"
+                className="w-full bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 transition duration-200"
+              >
+                Predict Risk
+              </button>
+            </form>
+            {riskResult && (
+              <div className="mt-4 p-4 bg-blue-100 rounded-lg">
+                <p className="text-lg font-semibold">{riskResult.message}</p>
+                <p>Risk Score: {(riskResult.risk * 100).toFixed(0)}%</p>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Incident Form */}
         {['crew', 'pilot'].includes(user.role) && (
