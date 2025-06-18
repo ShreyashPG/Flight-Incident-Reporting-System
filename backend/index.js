@@ -113,7 +113,13 @@ app.post('/api/signup', async (req, res) => {
     const expiresAt = new Date(Date.now() + 60 * 60 * 1000); // 1 hour
     await new Session({ userId: user._id, token, role: user.role, expiresAt }).save();
 
-    res.cookie('token', token, { httpOnly: true, sameSite: 'strict', maxAge: 60 * 60 * 1000 });
+    res.cookie('token', token, {
+  httpOnly: true,
+  secure: true,              // required for cross-site cookies
+  sameSite: 'None',          // allows cookie in cross-origin requests
+  maxAge: 60 * 60 * 1000     // 1 hour
+});
+
     res.status(201).json({ message: 'Signup successful' });
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -133,7 +139,13 @@ app.post('/api/login', async (req, res) => {
     const expiresAt = new Date(Date.now() + 60 * 60 * 1000); // 1 hour
     await new Session({ userId: user._id, token, role: user.role, expiresAt }).save();
 
-    res.cookie('token', token, { httpOnly: true, sameSite: 'strict', maxAge: 60 * 60 * 1000 });
+    res.cookie('token', token, {
+  httpOnly: true,
+  secure: true,              // required for cross-site cookies
+  sameSite: 'None',          // allows cookie in cross-origin requests
+  maxAge: 60 * 60 * 1000     // 1 hour
+});
+
     res.json({ message: 'Login successful' });
   } catch (error) {
     res.status(500).json({ error: error.message });
