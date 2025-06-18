@@ -11,7 +11,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://localhost:5000/api/login', { email, password }, { withCredentials: true });
+      await axios.post(process.env.REACT_APP_API_BASE_URL+'/api/login', { email, password }, { withCredentials: true });
       navigate('/dashboard');
     } catch (err) {
       setError(err.response?.data?.error || 'Login failed');

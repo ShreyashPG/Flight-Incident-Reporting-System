@@ -30,15 +30,15 @@ const Dashboard = () => {
   const [riskResult, setRiskResult] = useState(null);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/user', { withCredentials: true })
+    axios.get(process.env.REACT_APP_API_BASE_URL+'/api/user', { withCredentials: true })
       .then(res => {
         setUser(res.data);
-        return axios.get('http://localhost:5000/api/incidents', { withCredentials: true });
+        return axios.get(process.env.REACT_APP_API_BASE_URL+'/api/incidents', { withCredentials: true });
       })
       .then(res => {
         setIncidents(res.data);
         if (user?.role === 'admin') {
-          return axios.get('http://localhost:5000/api/users', { withCredentials: true });
+          return axios.get(process.env.REACT_APP_API_BASE_URL+'/api/users', { withCredentials: true });
         }
       })
       .then(res => {
@@ -55,7 +55,7 @@ const Dashboard = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5000/api/incidents', {
+      const response = await axios.post(process.env.REACT_APP_API_BASE_URL+'/api/incidents', {
         flightNumber: form.flightNumber,
         dateTime: new Date(form.dateTime),
         location: {
@@ -84,7 +84,7 @@ const Dashboard = () => {
 
   const handleComment = async (incidentId) => {
     try {
-      const response = await axios.post(`http://localhost:5000/api/incidents/${incidentId}/comments`, { text: comment }, {
+      const response = await axios.post(process.env.REACT_APP_API_BASE_URL+`/api/incidents/${incidentId}/comments`, { text: comment }, {
         withCredentials: true,
       });
       setIncidents(incidents.map(inc => inc._id === incidentId ? response.data : inc));
@@ -96,7 +96,7 @@ const Dashboard = () => {
 
   const handleSuggestAction = async (incidentId) => {
     try {
-      const response = await axios.put(`http://localhost:5000/api/incidents/${incidentId}/suggest-action`, {
+      const response = await axios.put(process.env.REACT_APP_API_BASE_URL+`/api/incidents/${incidentId}/suggest-action`, {
         action: editFields[incidentId]?.suggestedAction || '',
       }, { withCredentials: true });
       setIncidents(incidents.map(inc => inc._id === incidentId ? response.data : inc));
@@ -108,7 +108,7 @@ const Dashboard = () => {
 
   const handleAssignAction = async (incidentId) => {
     try {
-      const response = await axios.put(`http://localhost:5000/api/incidents/${incidentId}/assign-action`, {
+      const response = await axios.put(process.env.REACT_APP_API_BASE_URL+`/api/incidents/${incidentId}/assign-action`, {
         action: editFields[incidentId]?.assignedAction || '',
       }, { withCredentials: true });
       setIncidents(incidents.map(inc => inc._id === incidentId ? response.data : inc));
@@ -120,7 +120,7 @@ const Dashboard = () => {
 
   const handleActionStatus = async (incidentId) => {
     try {
-      const response = await axios.put(`http://localhost:5000/api/incidents/${incidentId}/action-status`, {
+      const response = await axios.put(process.env.REACT_APP_API_BASE_URL+`/api/incidents/${incidentId}/action-status`, {
         status: editFields[incidentId]?.actionStatus || 'Pending',
       }, { withCredentials: true });
       setIncidents(incidents.map(inc => inc._id === incidentId ? response.data : inc));
@@ -132,7 +132,7 @@ const Dashboard = () => {
 
   const handleExport = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/api/incidents/export', {
+      const response = await axios.get(process.env.REACT_APP_API_BASE_URL+'/api/incidents/export', {
         withCredentials: true,
         responseType: 'blob',
       });
@@ -150,7 +150,7 @@ const Dashboard = () => {
 
   const handleUpdateUserRole = async (userId, role) => {
     try {
-      const response = await axios.put(`http://localhost:5000/api/users/${userId}`, { role }, {
+      const response = await axios.put(process.env.REACT_APP_API_BASE_URL+`/api/users/${userId}`, { role }, {
         withCredentials: true,
       });
       setUsers(users.map(u => u._id === userId ? response.data : u));
@@ -162,7 +162,7 @@ const Dashboard = () => {
   const handleRiskPrediction = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5000/api/predict_risk', riskForm, {
+      const response = await axios.post(process.env.REACT_APP_API_BASE_URL+'/api/predict_risk', riskForm, {
         withCredentials: true,
       });
       setRiskResult(response.data);
@@ -174,7 +174,7 @@ const Dashboard = () => {
 
   const handleLogout = async () => {
     try {
-      await axios.post('http://localhost:5000/api/logout', {}, { withCredentials: true });
+      await axios.post(process.env.REACT_APP_API_BASE_URL+'/api/logout', {}, { withCredentials: true });
       window.location.href = '/login';
     } catch (error) {
       console.error(error);
